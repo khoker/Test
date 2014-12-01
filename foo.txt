@@ -1,0 +1,1567 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+************ AAppoolllloo 1111 ************
+From Wikipedia, the free encyclopedia
+Jump to: _n_a_v_i_g_a_t_i_o_n, _s_e_a_r_c_h
+This article is about the 1969 manned lunar mission. For other uses, see _A_p_o_l_l_o
+_1_1_ _(_d_i_s_a_m_b_i_g_u_a_t_i_o_n_).
+_[_P_a_g_e_ _s_e_m_i_-_p_r_o_t_e_c_t_e_d_]
+_[_T_h_i_s_ _i_s_ _a_ _g_o_o_d_ _a_r_t_i_c_l_e_._ _C_l_i_c_k_ _h_e_r_e_ _f_o_r_ _m_o_r_e_ _i_n_f_o_r_m_a_t_i_o_n_._]
+                                  AAppoolllloo 1111
+_[_A_p_o_l_l_o_ _1_1_ _f_i_r_s_t_ _s_t_e_p_._j_p_g_]
+_N_e_i_l_ _A_r_m_s_t_r_o_n_g descends a ladder to become the first human to step onto the
+surface of the Moon
+MMiissssiioonn ttyyppee         Manned lunar landing
+OOppeerraattoorr             _N_A_S_A_[_1_]
+_CC_OO_SS_PP_AA_RR_ _II_DD            CSM: 1969-059A
+                     LM: 1969-059C
+_SS_AA_TT_CC_AA_TT_ _‚‚_ÑÑ_ññ           CSM: 4039
+                     LM: 4041
+MMiissssiioonn dduurraattiioonn     8 days, 3 hours, 18 minutes, 35 seconds
+SSppaacceeccrraafftt pprrooppeerrttiieess
+SSppaacceeccrraafftt           _A_p_o_l_l_o_ _C_S_M-107
+                     _A_p_o_l_l_o_ _L_M-5
+MMaannuuffaaccttuurreerr         CSM: _N_o_r_t_h_ _A_m_e_r_i_c_a_n_ _R_o_c_k_w_e_l_l
+                     LM: _G_r_u_m_m_a_n
+                     CM: 5,560 kilograms (12,250 lb)
+LLaauunncchh mmaassss          SM: 23,243 kilograms (51,243 lb)
+                     LM: 15,095 kilograms (33,278 lb)
+CCrreeww
+CCrreeww ssiizzee            3
+                     _N_e_i_l_ _A_._ _A_r_m_s_t_r_o_n_g
+MMeemmbbeerrss              _M_i_c_h_a_e_l_ _C_o_l_l_i_n_s
+                     _E_d_w_i_n_ _E_._ _"_B_u_z_z_"_ _A_l_d_r_i_n_,_ _J_r_.
+                     CSM: Columbia
+CCaallllssiiggnn             LM: Eagle
+                     On surface: _T_r_a_n_q_u_i_l_i_t_y_ _B_a_s_e
+SSttaarrtt ooff mmiissssiioonn
+LLaauunncchh ddaattee          July 16, 1969, 13:32:00 (1969-07-16UTC13:32Z) UTC
+RRoocckkeett               _S_a_t_u_r_n_ _V SA-506
+LLaauunncchh ssiittee          _K_e_n_n_e_d_y _L_C_-_3_9_A
+EEnndd ooff mmiissssiioonn
+LLaannddiinngg ddaattee         July 24, 1969, 16:50:35 (1969-07-24UTC16:50:36Z) UTC_[_2_]
+                     North Pacific Ocean
+LLaannddiinngg ssiittee         _1_3_¬_∞_1_9_‚_Ä_≤_N_ _1_6_9_¬_∞_9_‚_Ä_≤_W_Ô_ª_ø_ _/_ _Ô_ª_ø_1_3_._3_1_7_¬_∞_N_ _1_6_9_._1_5_0_¬_∞_W_Ô_ª_ø_ _/
+                     _1_3_._3_1_7_;_ _-_1_6_9_._1_5_0_Ô_ª_ø_ _(_A_p_o_l_l_o_ _1_1_ _s_p_l_a_s_h_d_o_w_n_)_[_2_]
+OOrrbbiittaall ppaarraammeetteerrss
+RReeffeerreennccee ssyysstteemm     _S_e_l_e_n_o_c_e_n_t_r_i_c
+_PP_ee_rr_ii_ss_ee_ll_ee_nn_ee           100.9 kilometers (54.5 nmi)_[_3_]
+_AA_pp_oo_ss_ee_ll_ee_nn_ee            122.4 kilometers (66.1 nmi)_[_3_]
+_II_nn_cc_ll_ii_nn_aa_tt_ii_oo_nn          1.25 degrees_[_3_]
+_PP_ee_rr_ii_oo_dd               2 hours_[_3_]
+_EE_pp_oo_cc_hh                July 19, 1969, 21:44 UTC_[_3_]
+_LL_uu_nn_aa_rr oorrbbiitteerr
+SSppaacceeccrraafftt ccoommppoonneenntt _C_o_m_m_a_n_d_/_S_e_r_v_i_c_e_ _M_o_d_u_l_e
+OOrrbbiittaall iinnsseerrttiioonn    July 19, 1969, 17:21:50 UTC_[_4_]
+DDeeppaarrtteedd oorrbbiitt       July 22, 1969, 04:55:42 UTC_[_4_]
+OOrrbbiittss               30
+_LL_uu_nn_aa_rr llaannddeerr
+SSppaacceeccrraafftt ccoommppoonneenntt _L_u_n_a_r_ _M_o_d_u_l_e
+LLaannddiinngg ddaattee         July 20, 1969, 20:18:04 UTC_[_5_]
+RReettuurrnn llaauunncchh        July 21, 1969, 17:54 UTC
+                     Mare Tranquillitatis
+LLaannddiinngg ssiittee         _0_¬_∞_4_0_‚_Ä_≤_2_7_‚_Ä_≥_N_ _2_3_¬_∞_2_8_‚_Ä_≤_2_3_‚_Ä_≥_E_Ô_ª_ø_ _/_ _Ô_ª_ø_0_._6_7_4_0_8_¬_∞_N
+                     _2_3_._4_7_2_9_7_¬_∞_E_Ô_ª_ø_ _/_ _0_._6_7_4_0_8_;_ _2_3_._4_7_2_9_7_[_6_]
+SSaammppllee mmaassss          21.5 kilograms (47.5 lb)
+SSuurrffaaccee EEVVAAss         1
+EEVVAA dduurraattiioonn         2 hours, 31 minutes 40 seconds
+DDoocckkiinngg wwiitthh LLMM
+DDoocckkiinngg ddaattee         July 16, 1969, 16:56:03 UTC_[_4_]
+UUnnddoocckkiinngg ddaattee       July 20, 1969, 17:44:00 UTC_[_4_]
+DDoocckkiinngg wwiitthh LLMM AAsscceenntt SSttaaggee
+DDoocckkiinngg ddaattee         July 21, 1969, 21:35:00 UTC_[_4_]
+UUnnddoocckkiinngg ddaattee       July 21, 1969, 23:41:31 UTC_[_4_]
+_[_C_i_r_c_u_l_a_r_ _i_n_s_i_g_n_i_a_:_ _E_a_g_l_e_ _w_i_t_h_ _w_i_n_g_s_ _o_u_t_s_t_r_e_t_c_h_e_d_ _h_o_l_d_s_ _o_l_i_v_e_ _b_r_a_n_c_h_ _o_n_ _M_o_o_n
+_w_i_t_h_ _e_a_r_t_h_ _i_n_ _b_a_c_k_g_r_o_u_n_d_,_ _i_n_ _b_l_u_e_ _a_n_d_ _g_o_l_d_ _b_o_r_d_e_r_._] _[_T_h_r_e_e_ _a_s_t_r_o_n_a_u_t_s_ _i_n
+_s_p_a_c_e_s_u_i_t_s_ _w_i_t_h_o_u_t_ _h_e_l_m_e_t_s_ _s_i_t_t_i_n_g_ _i_n_ _f_r_o_n_t_ _o_f_ _a_ _l_a_r_g_e_ _p_h_o_t_o_ _o_f_ _t_h_e_ _M_o_o_n_._]
+Left to right: _A_r_m_s_t_r_o_n_g, _C_o_l_l_i_n_s, _A_l_d_r_i_n
+==============================================================================
+         _A_p_o_l_l_o_ _p_r_o_g_r_a_m
+‚Üê _A_p_o_l_l_o_ _1_0 _A_p_o_l_l_o_ _1_2 ‚Üí
+AAppoolllloo 1111 was the _s_p_a_c_e_f_l_i_g_h_t that _l_a_n_d_e_d the first humans on the _M_o_o_n,
+Americans _N_e_i_l_ _A_r_m_s_t_r_o_n_g and _B_u_z_z_ _A_l_d_r_i_n, on July 20, 1969, at 20:18 _U_T_C.
+Armstrong became the first to step onto the lunar surface six hours later on
+July 21 at 02:56 UTC. Armstrong spent about two and a half hours outside the
+spacecraft, Aldrin slightly less, and together they collected 47.5 pounds
+(21.5 kg) of lunar material for return to Earth. The third member of the
+mission, _M_i_c_h_a_e_l_ _C_o_l_l_i_n_s, piloted the _c_o_m_m_a_n_d_ _s_p_a_c_e_c_r_a_f_t alone in lunar orbit
+until Armstrong and Aldrin returned to it just under a day later for the trip
+back to Earth.
+Launched by a _S_a_t_u_r_n_ _V rocket from _K_e_n_n_e_d_y_ _S_p_a_c_e_ _C_e_n_t_e_r in _M_e_r_r_i_t_t_ _I_s_l_a_n_d_,
+_F_l_o_r_i_d_a, on July 16, Apollo 11 was the fifth manned mission of _N_A_S_A's _A_p_o_l_l_o
+_p_r_o_g_r_a_m. The Apollo _s_p_a_c_e_c_r_a_f_t had three parts: a _C_o_m_m_a_n_d_ _M_o_d_u_l_e (CM) with a
+cabin for the three astronauts, and the only part that landed back on Earth; a
+_S_e_r_v_i_c_e_ _M_o_d_u_l_e (SM), which supported the Command Module with propulsion,
+electrical power, oxygen, and water; and a _L_u_n_a_r_ _M_o_d_u_l_e (LM) for landing on the
+Moon. After being sent toward the Moon by the Saturn V's upper stage, the
+astronauts separated the spacecraft from it and traveled for three days until
+they entered into lunar orbit. Armstrong and Aldrin then moved into the Lunar
+Module and landed in the _S_e_a_ _o_f_ _T_r_a_n_q_u_i_l_i_t_y. They stayed a total of about 21¬Ω
+hours on the lunar surface. After lifting off in the upper part of the Lunar
+Module and rejoining Collins in the Command Module, they returned to Earth and
+landed in the _P_a_c_i_f_i_c_ _O_c_e_a_n on July 24.
+Broadcast on live TV to a world-wide audience, Armstrong stepped onto the lunar
+surface and described the event as "one small step for [a] man, one giant leap
+for mankind." Apollo 11 effectively ended the _S_p_a_c_e_ _R_a_c_e and fulfilled a
+national goal proposed in 1961 by the _U_._S_._ _P_r_e_s_i_d_e_n_t _J_o_h_n_ _F_._ _K_e_n_n_e_d_y in a
+speech before the _U_._S_._ _C_o_n_g_r_e_s_s: "before this decade is out, of landing a man
+on the Moon and returning him safely to the Earth."_[_7_]
+********** CCoonntteennttss **********
+    * _1_ _F_r_a_m_e_w_o_r_k
+          o _1_._1_ _C_r_e_w
+          o _1_._2_ _B_a_c_k_u_p_ _c_r_e_w
+          o _1_._3_ _S_u_p_p_o_r_t_ _c_r_e_w
+          o _1_._4_ _F_l_i_g_h_t_ _d_i_r_e_c_t_o_r_s
+          o _1_._5_ _C_a_l_l_ _s_i_g_n_s
+          o _1_._6_ _I_n_s_i_g_n_i_a
+          o _1_._7_ _M_e_m_e_n_t_o_s
+    * _2_ _M_i_s_s_i_o_n_ _h_i_g_h_l_i_g_h_t_s
+          o _2_._1_ _L_a_u_n_c_h_ _a_n_d_ _f_l_i_g_h_t_ _t_o_ _l_u_n_a_r_ _o_r_b_i_t
+          o _2_._2_ _L_u_n_a_r_ _d_e_s_c_e_n_t
+          o _2_._3_ _L_a_n_d_i_n_g
+          o _2_._4_ _L_u_n_a_r_ _s_u_r_f_a_c_e_ _o_p_e_r_a_t_i_o_n_s
+          o _2_._5_ _L_u_n_a_r_ _a_s_c_e_n_t_ _a_n_d_ _r_e_t_u_r_n
+          o _2_._6_ _S_p_l_a_s_h_d_o_w_n_ _a_n_d_ _q_u_a_r_a_n_t_i_n_e
+          o _2_._7_ _C_e_l_e_b_r_a_t_i_o_n
+    * _3_ _M_o_o_n_ _r_a_c_e
+    * _4_ _S_p_a_c_e_c_r_a_f_t_ _l_o_c_a_t_i_o_n
+    * _5_ _A_d_d_i_t_i_o_n_a_l_ _d_e_t_a_i_l_s
+    * _6_ _4_0_t_h_ _a_n_n_i_v_e_r_s_a_r_y_ _e_v_e_n_t_s
+    * _7_ _G_a_l_l_e_r_y
+    * _8_ _S_e_e_ _a_l_s_o
+    * _9_ _N_o_t_e_s
+    * _1_0_ _R_e_f_e_r_e_n_c_e_s
+    * _1_1_ _F_u_r_t_h_e_r_ _r_e_a_d_i_n_g
+    * _1_2_ _E_x_t_e_r_n_a_l_ _l_i_n_k_s
+********** FFrraammeewwoorrkk **********
+******** CCrreeww ********
+_PP_oo_ss_ii_tt_ii_oo_nn             AAssttrroonnaauutt
+CCoommmmaannddeerr            _N_e_i_l_ _A_._ _A_r_m_s_t_r_o_n_g
+CCoommmmaanndd MMoodduullee PPiilloott _M_i_c_h_a_e_l_ _C_o_l_l_i_n_s
+LLuunnaarr MMoodduullee PPiilloott   _E_d_w_i_n_ _"_B_u_z_z_"_ _E_._ _A_l_d_r_i_n_,_ _J_r_.
+Each crewman of Apollo 11 had made a spaceflight before this mission, making it
+only the second all-veteran crew (the other being _A_p_o_l_l_o_ _1_0) in human
+spaceflight history._[_8_]
+Collins was originally slated to be the Command Module Pilot (CMP) on _A_p_o_l_l_o_ _8
+but was removed when he required surgery on his back and was replaced by _J_i_m
+_L_o_v_e_l_l, his backup for that flight. After Collins was medically cleared, he
+took what would have been Lovell's spot on Apollo 11; as a veteran of Apollo 8,
+Lovell was transferred to Apollo 11's backup crew, but promoted to backup
+commander.
+******** BBaacckkuupp ccrreeww ********
+_PP_oo_ss_ii_tt_ii_oo_nn             AAssttrroonnaauutt
+CCoommmmaannddeerr            _J_a_m_e_s_ _A_._ _L_o_v_e_l_l_,_ _J_r_.
+CCoommmmaanndd MMoodduullee PPiilloott _W_i_l_l_i_a_m_ _A_._ _A_n_d_e_r_s
+LLuunnaarr MMoodduullee PPiilloott   _F_r_e_d_ _W_._ _H_a_i_s_e_,_ _J_r_.
+In early 1969, Anders accepted a job with the _N_a_t_i_o_n_a_l_ _S_p_a_c_e_ _C_o_u_n_c_i_l effective
+August 1969 and announced that he would retire as an astronaut on that date. At
+that point _K_e_n_ _M_a_t_t_i_n_g_l_y was moved from the support crew into parallel training
+with Anders as backup Command Module Pilot in case Apollo 11 was delayed past
+its intended July launch (at which point Anders would be unavailable if needed)
+and would later join Lovell's crew and ultimately be assigned as the original
+_A_p_o_l_l_o_ _1_3 CMP._[_9_]
+******** SSuuppppoorrtt ccrreeww ********
+    * _C_h_a_r_l_i_e_ _D_u_k_e, _C_a_p_s_u_l_e_ _C_o_m_m_u_n_i_c_a_t_o_r_ _(_C_A_P_C_O_M_)
+    * _R_o_n_a_l_d_ _E_v_a_n_s (CAPCOM)
+    * _O_w_e_n_ _K_._ _G_a_r_r_i_o_t_t (CAPCOM)
+    * _D_o_n_ _L_._ _L_i_n_d (CAPCOM)
+    * _K_e_n_ _M_a_t_t_i_n_g_l_y (CAPCOM)
+    * _B_r_u_c_e_ _M_c_C_a_n_d_l_e_s_s_ _I_I (CAPCOM)
+    * _H_a_r_r_i_s_o_n_ _S_c_h_m_i_t_t (CAPCOM)
+    * _B_i_l_l_ _P_o_g_u_e
+    * _J_a_c_k_ _S_w_i_g_e_r_t
+******** FFlliigghhtt ddiirreeccttoorrss ********
+    * Cliff Charlesworth (Green Team), launch and _E_V_A
+    * _G_e_n_e_ _K_r_a_n_z (White Team), lunar landing
+    * _G_l_y_n_n_ _L_u_n_n_e_y (Black Team), lunar ascent
+******** CCaallll ssiiggnnss ********
+Apollo 11 Command/Service Module Columbia in lunar orbit, photographed from the
+Lunar Module Eagle
+After the crew of Apollo 10 named their spacecraft Charlie Brown and Snoopy,
+assistant manager for public affairs Julian Scheer wrote to _M_a_n_n_e_d_ _S_p_a_c_e_c_r_a_f_t
+_C_e_n_t_e_r director _G_e_o_r_g_e_ _M_._ _L_o_w to suggest the Apollo 11 crew be less flippant in
+naming their craft. During early mission planning, the names Snowcone and
+Haystack were used and put in the news release,_[_1_0_] but the crew later decided
+to change them.
+The Command Module was named _C_o_l_u_m_b_i_a after the _C_o_l_u_m_b_i_a_d, the giant cannon
+shell "spacecraft" fired by a giant cannon (also from Florida) in _J_u_l_e_s_ _V_e_r_n_e_'_s
+1865 novel _F_r_o_m_ _t_h_e_ _E_a_r_t_h_ _t_o_ _t_h_e_ _M_o_o_n._[_1_1_] The Lunar Module was named Eagle for
+the _n_a_t_i_o_n_a_l_ _b_i_r_d of the United States, the _b_a_l_d_ _e_a_g_l_e, which is featured
+prominently on the mission insignia.
+******** IInnssiiggnniiaa ********
+The Apollo 11 mission insignia was designed by Collins, who wanted a symbol for
+"peaceful lunar landing by the United States". He chose an eagle as the symbol,
+put an _o_l_i_v_e_ _b_r_a_n_c_h in its beak, and drew a lunar background with the Earth in
+the distance. NASA officials said the talons of the eagle looked too "warlike"
+and after some discussion, the olive branch was moved to the claws. The crew
+decided the _R_o_m_a_n_ _n_u_m_e_r_a_l _X_I would not be understood in some nations and went
+with "Apollo 11"; they decided not to put their names on the patch, so it would
+"be representative of everyone who had worked toward a lunar landing"._[_1_2_] All
+colors are natural, with blue and gold borders around the _p_a_t_c_h.
+When the _E_i_s_e_n_h_o_w_e_r_ _d_o_l_l_a_r_ _c_o_i_n was released in 1971, the patch design provided
+the eagle for its reverse side._[_1_3_] The design was also used for the smaller
+_S_u_s_a_n_ _B_._ _A_n_t_h_o_n_y_ _d_o_l_l_a_r unveiled in 1979, ten years after the Apollo 11
+mission._[_1_4_]
+******** MMeemmeennttooss ********
+Neil Armstrong's personal preference kit carried a piece of wood from the
+_W_r_i_g_h_t_ _b_r_o_t_h_e_r_s' 1903 airplane's left propeller and a piece of fabric from its
+wing,_[_1_5_] along with a diamond-studded _a_s_t_r_o_n_a_u_t_ _p_i_n originally given to _D_e_k_e
+_S_l_a_y_t_o_n by the widows of the _A_p_o_l_l_o_ _1 crew. This pin had been intended to be
+flown on Apollo 1 and given to Slayton after the mission but following the
+disastrous launch pad fire and subsequent funerals, the widows gave the pin to
+Slayton and Armstrong took it on Apollo 11._[_1_6_]
+********** MMiissssiioonn hhiigghhlliigghhttss **********
+******** LLaauunncchh aanndd fflliigghhtt ttoo lluunnaarr oorrbbiitt ********
+Saturn V carrying Apollo 11 rises past the _l_a_u_n_c_h_ _t_o_w_e_r camera
+Earth seen from Apollo 11 just after leaving Earth orbit (_t_r_a_n_s_l_u_n_a_r_ _i_n_j_e_c_t_i_o_n)
+In addition to throngs of people crowding highways and beaches near the launch
+site, millions watched the event on television, with NASA Chief of Public
+Information _J_a_c_k_ _K_i_n_g providing commentary. _P_r_e_s_i_d_e_n_t _R_i_c_h_a_r_d_ _M_._ _N_i_x_o_n viewed
+the proceedings from the _O_v_a_l_ _O_f_f_i_c_e of the _W_h_i_t_e_ _H_o_u_s_e.
+A _S_a_t_u_r_n_ _V launched Apollo 11 from Launch Pad 39A, part of the Launch Complex
+39 site at the _K_e_n_n_e_d_y_ _S_p_a_c_e_ _C_e_n_t_e_r on July 16, 1969 at 13:32:00 UTC (9:32:00
+a.m. EDT local time). It entered Earth orbit, at an altitude of 100.4 nautical
+miles (185.9 km) by 98.9 nautical miles (183.2 km), twelve minutes later._[_1_]
+After one and a half orbits, the _S_-_I_V_B third-stage engine pushed the spacecraft
+onto its trajectory toward the Moon with the _t_r_a_n_s_-_l_u_n_a_r_ _i_n_j_e_c_t_i_o_n (TLI) burn
+at 16:22:13 UTC. About 30 minutes later the _c_o_m_m_a_n_d_/_s_e_r_v_i_c_e_ _m_o_d_u_l_e pair
+separated from this last remaining Saturn V stage and docked with the Lunar
+Module still nestled in the _L_u_n_a_r_ _M_o_d_u_l_e_ _A_d_a_p_t_o_r. After the Lunar Module was
+extracted, the combined spacecraft headed for the Moon, while the third stage
+booster flew on a trajectory past the Moon and into _o_r_b_i_t_ _a_r_o_u_n_d_ _t_h_e_ _S_u_n._[_4_]
+On July 19 at 17:21:50 UTC, Apollo 11 passed behind the Moon and fired its
+service propulsion engine to enter _l_u_n_a_r_ _o_r_b_i_t. In the thirty orbits_[_1_7_] that
+followed, the crew saw passing views of their landing site in the southern Sea
+of Tranquility (_M_a_r_e_ _T_r_a_n_q_u_i_l_l_i_t_a_t_i_s) about 12 miles (19 km) southwest of the
+crater Sabine D (0.67408N, 23.47297E). The landing site was selected in part
+because it had been characterized as relatively flat and smooth by the
+automated _R_a_n_g_e_r_ _8 and _S_u_r_v_e_y_o_r_ _5 landers along with the _L_u_n_a_r_ _O_r_b_i_t_e_r mapping
+spacecraft and unlikely to present major landing or _e_x_t_r_a_-_v_e_h_i_c_u_l_a_r_ _a_c_t_i_v_i_t_y
+(EVA) challenges._[_1_8_]
+******** LLuunnaarr ddeesscceenntt ********
+The Eagle in _l_u_n_a_r_ _o_r_b_i_t after separating from Columbia
+CAPCOM Charles Duke, with backup pilots _J_a_m_e_s_ _L_o_v_e_l_l and _F_r_e_d_ _H_a_i_s_e listening
+in during Apollo 11's descent
+On July 20, 1969, the Lunar Module Eagle separated from the Command Module
+Columbia. Collins, alone aboard Columbia, inspected Eagle as it pirouetted
+before him to ensure the craft was not damaged.
+As the descent began, Armstrong and Aldrin found that they were passing
+landmarks on the surface four seconds early and reported that they were "long";
+they would land miles west of their target point.
+Five minutes into the descent burn, and 6,000 feet (1,800 m) above the surface
+of the Moon, the _L_M_ _n_a_v_i_g_a_t_i_o_n_ _a_n_d_ _g_u_i_d_a_n_c_e_ _c_o_m_p_u_t_e_r distracted the crew with
+the first of several unexpected "1202" and "1201" program alarms. Inside
+_M_i_s_s_i_o_n_ _C_o_n_t_r_o_l_ _C_e_n_t_e_r in Houston, Texas, computer engineer _J_a_c_k_ _G_a_r_m_a_n told
+_g_u_i_d_a_n_c_e_ _o_f_f_i_c_e_r _S_t_e_v_e_ _B_a_l_e_s it was safe to continue the descent, and this was
+relayed to the crew. The program alarms indicated "executive overflows",
+meaning the guidance computer could not complete all of its tasks in real time
+and had to postpone some of them._[_1_9_]
+     Due to an error in the checklist manual, the rendezvous radar switch
+     was placed in the wrong position. This caused it to send erroneous
+     signals to the computer. The result was that the computer was being
+     asked to perform all of its normal functions for landing while
+     receiving an extra load of spurious data which used up 15% of its
+     time. The computer (or rather the software in it) was smart enough to
+     recognize that it was being asked to perform more tasks than it
+     should be performing. It then sent out an alarm, which meant to the
+     astronaut, I'm overloaded with more tasks than I should be doing at
+     this time and I'm going to keep only the more important tasks; i.e.,
+     the ones needed for landing ... Actually, the computer was programmed
+     to do more than recognize error conditions. A complete set of
+     recovery programs was incorporated into the software. The software's
+     action, in this case, was to eliminate lower priority tasks and re-
+     establish the more important ones ... If the computer hadn't
+     recognized this problem and taken recovery action, I doubt if Apollo
+     11 would have been the successful [M]oon landing it was._[_2_0_]_[_a_]
+     ‚Äî_M_a_r_g_a_r_e_t_ _H_a_m_i_l_t_o_n, lead Apollo flight software designer
+     _[_2_4_], Letter to _D_a_t_a_m_a_t_i_o_n, March 1, 1971
+******** LLaannddiinngg ********
+[File:AP11 FINAL APPROACH.ogv]_P_l_a_y_ _m_e_d_i_a
+Landing on the Moon, July 20, 1969
+Landing site of Apollo 11 at Sea of Tranquility.
+[File:A New Look at the Apollo 11 Landing Site.ogg]_P_l_a_y_ _m_e_d_i_a
+The Apollo 11 landing site visualized in three dimensions using photography and
+a stereo digital elevation model from the _L_R_O camera.
+When Armstrong again looked outside, he saw that the computer's landing target
+was in a boulder-strewn area just north and east of a 300-meter (980 ft)
+diameter crater (later determined to be "West crater," named for its location
+in the western part of the originally planned landing ellipse). Armstrong took
+semi-automatic control_[_2_5_] and, with Aldrin calling out altitude and velocity
+data, landed at 20:17:40 UTC on July 20 with about 25 seconds of fuel left._[_5_]
+Apollo 11 landed with less fuel than other missions, and the astronauts
+encountered a premature low fuel warning. This was later found to be the result
+of greater propellant 'slosh' than expected, uncovering a fuel sensor. On
+subsequent missions, extra anti-slosh baffles were added to the tanks to
+prevent this._[_5_]
+Throughout the descent Aldrin had called out navigation data to Armstrong, who
+was busy piloting the _L_M. A few moments before the landing, a light informed
+Aldrin that at least one of the 67-inch (170 cm) probes hanging from Eagle's
+footpads had touched the surface, and he said "Contact light!" Three seconds
+later, Eagle landed and Armstrong said "Shutdown." Aldrin immediately said
+"Okay, engine stop. ACA ‚Äì out of _d_e_t_e_n_t." Armstrong acknowledged "Out of
+detent. Auto" and Aldrin continued "Mode control ‚Äì both auto. Descent engine
+command override off. Engine arm ‚Äì off. 413 is in."
+_C_h_a_r_l_e_s_ _D_u_k_e, CAPCOM during the landing phase, acknowledged their landing by
+saying "We copy you down, Eagle."
+Armstrong acknowledged Aldrin's completion of the post landing checklist with
+"Engine arm is off," before responding to Duke with the words, "Houston,
+_T_r_a_n_q_u_i_l_i_t_y_ _B_a_s_e here. The Eagle has landed." Armstrong's unrehearsed_[_2_6_]
+change of call sign from "Eagle" to "Tranquility Base" emphasized to listeners
+that landing was complete and successful. Duke mispronounced his reply as he
+expressed the relief at Mission Control: "Roger, Twan‚Äî Tranquility, we copy
+you on the ground. You got a bunch of guys about to turn blue. We're breathing
+again. Thanks a lot."_[_5_]_[_2_7_]
+Two and a half hours after landing, before preparations began for the EVA,
+Aldrin radioed to Earth:
+     "This is the LM pilot. I'd like to take this opportunity to ask every
+     person listening in, whoever and wherever they may be, to pause for a
+     moment and contemplate the events of the past few hours and to give
+     thanks in his or her own way."_[_2_8_]
+He then took _c_o_m_m_u_n_i_o_n privately. At this time NASA was still fighting a
+lawsuit brought by atheist _M_a_d_a_l_y_n_ _M_u_r_r_a_y_ _O_'_H_a_i_r (who had objected to the
+Apollo 8 crew reading from the _B_o_o_k_ _o_f_ _G_e_n_e_s_i_s) demanding that their astronauts
+refrain from broadcasting religious activities while in space. As such, Aldrin
+chose to refrain from directly mentioning taking communion on the Moon. Aldrin
+was an elder at the _W_e_b_s_t_e_r _P_r_e_s_b_y_t_e_r_i_a_n_ _C_h_u_r_c_h, and his communion kit was
+prepared by the pastor of the church, the Rev. Dean Woodruff. Aldrin described
+communion on the Moon and the involvement of his church and pastor in the
+October 1970 edition of Guideposts magazine and in his book Return to Earth.
+Webster Presbyterian possesses the chalice used on the Moon and commemorates
+the event each year on the Sunday closest to July 20._[_2_9_]
+The schedule for the mission called for the astronauts to follow the landing
+with a five-hour sleep period, since they had been awake since early morning.
+However, they elected to forgo the sleep period and begin the preparations for
+the EVA early, thinking that they would be unable to sleep.
+******** LLuunnaarr ssuurrffaaccee ooppeerraattiioonnss ********
+See also: _F_i_r_s_t_ _M_o_o_n_ _w_a_l_k
+A _m_o_u_n_t_e_d_ _s_l_o_w_s_c_a_n_ _T_V_ _c_a_m_e_r_a shows Armstrong as he climbs down the ladder to
+surface
+The astronauts planned placement of the Early Apollo Scientific Experiment
+Package (EASEP)_[_3_0_] and the _U_._S_._ _f_l_a_g by studying their landing site through
+Eagle's twin triangular windows, which gave them a 60¬∞ field of view.
+Preparation required longer than the two hours scheduled. Armstrong initially
+had some difficulties squeezing through the hatch with his _P_o_r_t_a_b_l_e_ _L_i_f_e
+_S_u_p_p_o_r_t_ _S_y_s_t_e_m (PLSS). According to veteran Moon-walker _J_o_h_n_ _Y_o_u_n_g, a redesign
+of the LM to incorporate a smaller hatch had not been followed by a redesign of
+the PLSS backpack, so some of the highest heart rates recorded from Apollo
+astronauts occurred during LM egress and ingress._[_3_1_]_[_3_2_]
+At 02:39 UTC on Monday July 21, 1969, Armstrong opened the hatch, and at 02:51
+UTC began his descent to the lunar surface. The Remote Control Unit controls on
+his chest kept him from seeing his feet. Climbing down the nine-rung ladder,
+Armstrong pulled a D-ring to deploy the Modular Equipment Stowage Assembly
+(MESA) folded against Eagle's side and activate the TV camera, and at 02:56:15
+UTC he set his left foot on the surface._[_3_3_]_[_3_4_] The first landing used _s_l_o_w_-
+_s_c_a_n_ _t_e_l_e_v_i_s_i_o_n incompatible with commercial TV, so it was displayed on a
+special monitor and a conventional TV camera viewed this monitor, significantly
+reducing the quality of the picture._[_3_5_] The signal was received at _G_o_l_d_s_t_o_n_e
+in the United States but with better fidelity by _H_o_n_e_y_s_u_c_k_l_e_ _C_r_e_e_k_ _T_r_a_c_k_i_n_g
+_S_t_a_t_i_o_n in Australia. Minutes later the feed was switched to the more sensitive
+_P_a_r_k_e_s_ _r_a_d_i_o_ _t_e_l_e_s_c_o_p_e in Australia._[_3_6_] Despite some technical and weather
+difficulties, ghostly black and white images of the first lunar EVA were
+received and broadcast to at least 600 million people on Earth._[_3_7_] Although
+copies of this video in broadcast format were saved and are widely available,
+_r_e_c_o_r_d_i_n_g_s_ _o_f_ _t_h_e_ _o_r_i_g_i_n_a_l_ _s_l_o_w_ _s_c_a_n_ _s_o_u_r_c_e_ _t_r_a_n_s_m_i_s_s_i_o_n_ _f_r_o_m_ _t_h_e_ _l_u_n_a_r_ _s_u_r_f_a_c_e
+were accidentally destroyed during routine magnetic tape re-use at NASA.
+The plaque left on the ladder of Eagle
+While still on the ladder, Armstrong uncovered a _p_l_a_q_u_e mounted on the LM
+Descent Stage bearing two drawings of Earth (of the Western and Eastern
+Hemispheres), an inscription, and signatures of the astronauts and President
+Nixon. The inscription read:
+     Here men from the planet Earth first set foot upon the Moon, July
+     1969 A.D. We came in peace for all mankind.
+After describing the surface dust as "very fine-grained" and "almost like a
+powder,"_[_3_4_] Armstrong stepped off Eagle's footpad and uttered his famous line,
+"That's one small step for [a] man, one giant leap for mankind"_[_b_]_[_3_8_]_[_3_9_]_[_4_0_]
+_[_4_1_] six and a half hours after landing._[_1_] Aldrin joined him, describing the
+view as "Magnificent desolation."_[_3_4_]
+Armstrong claims to have said "That's one small step for a man, one giant leap
+for mankind" when he first set foot on the lunar surface. The "a" is not clear
+in NASA recordings, but the audio and video links back to Earth were somewhat
+intermittent, partly because of storms near _P_a_r_k_e_s_ _O_b_s_e_r_v_a_t_o_r_y. More recent
+digital analysis of the tape by NASA revealed the "a" may have been spoken but
+obscured by static._[_4_2_]_[_4_3_]
+ _"_T_h_a_t_'_s_ _o_n_e_ _s_m_a_l_l_ _s_t_e_p_ _._._._"
+ Sorry, your browser either has JavaScript disabled or does not have any
+ supported player.
+ You can _d_o_w_n_l_o_a_d_ _t_h_e_ _c_l_i_p or _d_o_w_n_l_o_a_d_ _a_ _p_l_a_y_e_r to play the clip in your
+ browser.
+ ==============================================================================
+Problems playing this file? See _m_e_d_i_a_ _h_e_l_p.
+
+About seven minutes after stepping onto the Moon's surface, Armstrong collected
+a contingency soil sample using a sample bag on a stick. He then folded the bag
+and tucked it into a pocket on his right thigh. This was to guarantee there
+would be some lunar soil brought back in case an emergency required the
+astronauts to abandon the EVA and return to the LM._[_4_4_]
+In addition to fulfilling President Kennedy's mandate to land a man on the Moon
+before the end of the 1960s,_[_4_5_] Apollo 11 was an engineering test of the
+Apollo system; therefore, Armstrong snapped photos of the LM so engineers would
+be able to judge its post-landing condition. He removed the TV camera from the
+MESA and made a panoramic sweep, then mounted it on a tripod 68 feet (21 m)
+from the LM. The TV camera cable remained partly coiled and presented a
+tripping hazard throughout the EVA.
+Aldrin poses on the Moon, allowing Armstrong to photograph both of them using
+the visor's reflection
+Aldrin bootprint; part of an experiment to test the properties of the lunar
+_r_e_g_o_l_i_t_h
+Armstrong said that moving in the _l_u_n_a_r_ _g_r_a_v_i_t_y, one-sixth of Earth's, was
+"even perhaps easier than the simulations ... It's absolutely no trouble to
+walk around."_[_3_4_] Aldrin joined him on the surface and tested methods for
+moving around, including two-footed kangaroo hops. The PLSS backpack created a
+tendency to tip backwards, but neither astronaut had serious problems
+maintaining balance. Loping became the preferred method of movement. The
+astronauts reported that they needed to plan their movements six or seven steps
+ahead. The fine soil was quite slippery. Aldrin remarked that moving from
+sunlight into Eagle's shadow produced no temperature change inside the suit,
+though the helmet was warmer in sunlight, so he felt cooler in shadow._[_3_4_]
+The astronauts planted a _s_p_e_c_i_a_l_l_y_ _d_e_s_i_g_n_e_d_ _U_._S_._ _f_l_a_g on the lunar surface, in
+clear view of the TV camera. Some time later, President Richard Nixon spoke to
+them through a telephone-radio transmission which Nixon called "the most
+historic phone call ever made from the White House."_[_4_6_] Nixon originally had a
+long speech prepared to read during the phone call, but _F_r_a_n_k_ _B_o_r_m_a_n, who was
+at the White House as a NASA liaison during Apollo 11, convinced Nixon to keep
+his words brief, to respect the lunar landing as Kennedy's legacy._[_4_7_]
+_W_i_l_l_i_a_m_ _S_a_f_i_r_e prepared a speech called In Event of Moon Disaster for President
+Nixon to read on television if the Apollo 11 astronauts were stranded on the
+Moon._[_4_8_] According to the plans, Mission Control would "close down
+communications" with the LEM, and a clergyman would have commended their souls
+to "the deepest of the deep" in a public ritual likened to _b_u_r_i_a_l_ _a_t_ _s_e_a.
+Presidential telephone calls to the astronauts' wives were also planned. The
+speech originated in a memo from Safire to Nixon's _W_h_i_t_e_ _H_o_u_s_e_ _C_h_i_e_f_ _o_f_ _S_t_a_f_f
+_H_._ _R_._ _H_a_l_d_e_m_a_n in which Safire suggested a protocol the administration might
+follow in reaction to such a disaster._[_4_9_]_[_5_0_] The last line of the prepared
+text contained an allusion to _R_u_p_e_r_t_ _B_r_o_o_k_e's _F_i_r_s_t_ _W_o_r_l_d_ _W_a_r poem, "_T_h_e
+_S_o_l_d_i_e_r."_[_5_0_]
+The MESA failed to provide a stable work platform and was in shadow, slowing
+work somewhat. As they worked, the moonwalkers kicked up gray dust which soiled
+the outer part of their suits, the integrated thermal meteoroid garment.
+They deployed the EASEP, which included a passive seismograph and a _L_u_n_a_r
+_R_a_n_g_i_n_g _R_e_t_r_o_r_e_f_l_e_c_t_o_r (LRRR). Then Armstrong walked 196 feet (60 m) from the
+LM to snap photos at the rim of Little West Crater while Aldrin collected two
+core tubes. He used the _g_e_o_l_o_g_i_c_a_l_ _h_a_m_m_e_r to pound in the tubes - the only time
+the hammer was used on Apollo 11. The astronauts then collected rock samples
+using scoops and tongs on extension handles. Many of the surface activities
+took longer than expected, so they had to stop documenting sample collection
+halfway through the allotted 34 minutes.
+Map showing landing site and photos taken
+Three new minerals were discovered in the rock samples collected by the
+astronauts: _a_r_m_a_l_c_o_l_i_t_e, _t_r_a_n_q_u_i_l_l_i_t_y_i_t_e, and _p_y_r_o_x_f_e_r_r_o_i_t_e. Armalcolite was
+named after Armstrong, Aldrin, and Collins.
+During this period Mission Control used a coded phrase to warn Armstrong that
+his metabolic rates were high and that he should slow down. He was moving
+rapidly from task to task as time ran out. However, as metabolic rates remained
+generally lower than expected for both astronauts throughout the walk, Mission
+Control granted the astronauts a 15-minute extension._[_5_1_] In a 2010 interview,
+Armstrong, who had walked a maximum of 196 feet (60 m) from the LM, explained
+that NASA limited the first moonwalk's time and distance because there was no
+empirical proof of how much cooling water the astronauts' PLSS backpacks would
+consume to handle their body heat generation while working on the Moon._[_5_2_]
+******** LLuunnaarr aasscceenntt aanndd rreettuurrnn ********
+Aldrin next to the Passive Seismic Experiment Package with Eagle in the
+background
+Aldrin entered Eagle first. With some difficulty the astronauts lifted film and
+two sample boxes containing more than 22 kilograms (49 lb) of lunar surface
+material to the LM hatch using a flat cable pulley device called the Lunar
+Equipment Conveyor. Armstrong reminded Aldrin of a bag of memorial items in his
+suit pocket sleeve, and Aldrin tossed the bag down; Armstrong then jumped to
+the ladder's third rung and climbed into the LM. After transferring to LM _l_i_f_e
+_s_u_p_p_o_r_t, the explorers lightened the ascent stage for return to lunar orbit by
+tossing out their PLSS backpacks, lunar overshoes, one _H_a_s_s_e_l_b_l_a_d camera, and
+other equipment. They then pressurized the LM, and settled down to sleep._[_5_3_]
+While moving within the cabin, Aldrin accidentally broke the _c_i_r_c_u_i_t_ _b_r_e_a_k_e_r
+that would arm the main engine for lift off from the Moon. There was concern
+this would prevent firing the engine, stranding them on the Moon. Fortunately a
+felt-tip pen was sufficient to activate the switch._[_5_3_] Had this not worked,
+the Lunar Module circuitry could have been reconfigured to allow firing the
+ascent engine._[_5_4_]
+After about seven hours of rest, the crew was awakened by Houston to prepare
+for the return flight. Two and a half hours later, at 17:54 UTC, they lifted
+off in Eagle's ascent stage, carrying 21.5 kilograms of lunar samples with
+them, to rejoin CMP Michael Collins aboard Columbia in lunar orbit. During the
+launch Aldrin looked up in time to see the exhaust from the ascent module's
+engine knock over the American flag they had planted._[_1_]
+After more than 21¬Ω total hours on the lunar surface, they had left behind
+scientific instruments that included a _r_e_t_r_o_r_e_f_l_e_c_t_o_r array used for the _L_u_n_a_r
+_L_a_s_e_r_ _R_a_n_g_i_n_g_ _E_x_p_e_r_i_m_e_n_t and a Passive Seismic Experiment Package used to
+measure _m_o_o_n_q_u_a_k_e_s. They also left an Apollo 1 mission patch, and a memorial
+bag containing a gold replica of an olive branch as a traditional symbol of
+peace and a silicon message disk. The disk carries the _g_o_o_d_w_i_l_l_ _s_t_a_t_e_m_e_n_t_s by
+Presidents _E_i_s_e_n_h_o_w_e_r, Kennedy, _J_o_h_n_s_o_n, and Nixon and messages from leaders of
+73 countries around the world. The disc also carries a listing of the
+leadership of the US Congress, a listing of members of the four committees of
+the House and Senate responsible for the NASA legislation, and the names of
+NASA's past and present top management._[_5_5_] (In his 1989 book, Men from Earth,
+Aldrin says that the items included Soviet medals commemorating _C_o_s_m_o_n_a_u_t_s
+_V_l_a_d_i_m_i_r_ _K_o_m_a_r_o_v and _Y_u_r_i_ _G_a_g_a_r_i_n.) Also, according to Deke Slayton's book
+Moonshot, Armstrong carried with him a special diamond-studded astronaut pin
+from Slayton.
+Eagle's ascent stage approaching Columbia
+Film taken from the LM Ascent Stage upon liftoff from the Moon reveals the
+American flag, planted some 25 feet (8 m) from the descent stage, whipping
+violently in the exhaust of the ascent stage engine. Buzz Aldrin witnessed it
+topple: "The ascent stage of the LM separated ... I was concentrating on the
+computers, and Neil was studying the _a_t_t_i_t_u_d_e_ _i_n_d_i_c_a_t_o_r, but I looked up long
+enough to see the flag fall over."_[_1_7_] Subsequent Apollo missions usually
+planted the American flags at least 100 feet (30 m) from the LM to prevent its
+being blown over by the ascent engine exhaust.
+After rendezvous with Columbia, Eagle‚Ää'‚Äãs ascent stage was jettisoned into
+lunar orbit on July 21, 1969 at 23:41 UTC. Just before the _A_p_o_l_l_o_ _1_2 flight, it
+was noted that Eagle was still likely to be orbiting the Moon. Later NASA
+reports mentioned that Eagle's orbit had decayed, resulting in it impacting in
+an "uncertain location" on the lunar surface._[_5_6_] The location is uncertain
+because the Eagle ascent stage was not tracked after it was jettisoned, and the
+lunar gravity field is sufficiently non-uniform to make the orbit of the
+spacecraft unpredictable after a short time. NASA estimated that the orbit had
+decayed within months and would have impacted on the Moon.
+On July 23, the last night before splashdown, the three astronauts made a
+television broadcast in which Collins commented,
+      "... The Saturn V rocket which put us in orbit is an incredibly
+      complicated piece of machinery, every piece of which worked
+      flawlessly ... We have always had confidence that this equipment will
+      work properly. All this is possible only through the blood, sweat, and
+      tears of a number of a people ... All you see is the three of us, but
+      beneath the surface are thousands and thousands of others, and to all of
+      those, I would like to say, 'Thank you very much.'"
+Aldrin added,
+      "This has been far more than three men on a mission to the Moon; more,
+      still, than the efforts of a government and industry team; more, even,
+      than the efforts of one nation. We feel that this stands as a symbol of
+      the insatiable curiosity of all mankind to explore the unknown ...
+      Personally, in reflecting on the events of the past several days, a verse
+      from Psalms comes to mind. 'When I consider the heavens, the work of Thy
+      fingers, the Moon and the stars, which Thou hast ordained; What is man
+      that Thou art mindful of him?'"
+Armstrong concluded,
+      "The responsibility for this flight lies first with history and with the
+      giants of science who have preceded this effort; next with the American
+      people, who have, through their will, indicated their desire; next with
+      four administrations and their Congresses, for implementing that will;
+      and then, with the agency and industry teams that built our spacecraft,
+      the Saturn, the Columbia, the Eagle, and the little _E_M_U, the spacesuit
+      and backpack that was our small spacecraft out on the lunar surface. We
+      would like to give special thanks to all those Americans who built the
+      spacecraft; who did the construction, design, the tests, and put their
+      hearts and all their abilities into those craft. To those people tonight,
+      we give a special thank you, and to all the other people that are
+      listening and watching tonight, God bless you. Good night from Apollo
+      11."_[_1_7_]
+On the return to Earth, a bearing at the Guam tracking station failed,
+potentially preventing communication on the last segment of the Earth return. A
+regular repair was not possible in the available time but the station director,
+Charles Force, had his ten-year old son Greg use his small hands to reach into
+the housing and pack it with grease. Greg later was thanked by Armstrong._[_5_7_]
+******** SSppllaasshhddoowwnn aanndd qquuaarraannttiinnee ********
+Columbia floats on the ocean as Navy divers assist in retrieving the astronauts
+The astronauts in their Biological Isolation Garments aboard the _U_S_S_ _H_o_r_n_e_t
+On July 24, the astronauts returned home aboard the Command Module Columbia
+just before dawn local time (16:51 UTC_[_4_]) at _1_3_¬_∞_1_9_‚_Ä_≤_N_ _1_6_9_¬_∞_9_‚_Ä_≤_W_Ô_ª_ø_ _/
+_Ô_ª_ø_1_3_._3_1_7_¬_∞_N_ _1_6_9_._1_5_0_¬_∞_W_Ô_ª_ø_ _/_ _1_3_._3_1_7_;_ _-_1_6_9_._1_5_0_Ô_ª_ø_ _(_A_p_o_l_l_o_ _1_1_ _s_p_l_a_s_h_d_o_w_n_), in the
+Pacific Ocean 2,660 km (1,440 nmi) east of _W_a_k_e_ _I_s_l_a_n_d, 380 km (210 nmi) south
+of _J_o_h_n_s_t_o_n_ _A_t_o_l_l, and 24 km (13 nmi) from the recovery ship, _U_S_S_ _H_o_r_n_e_t._[_1_]
+At 16:44 UTC the _d_r_o_g_u_e_ _p_a_r_a_c_h_u_t_e_s had been deployed and seven minutes later
+the Command Module struck the water forcefully. During _s_p_l_a_s_h_d_o_w_n, the Command
+Module landed upside down but was righted within 10 minutes by flotation bags
+triggered by the astronauts. "Everything's okay. Our checklist is complete.
+Awaiting swimmers," was Armstrong's last official transmission from the
+Columbia. A diver from the Navy helicopter hovering above attached a sea anchor
+to the Command Module to prevent it from drifting. Additional divers attached
+flotation collars to stabilize the module and position rafts for astronaut
+extraction. Though the chance of bringing back _p_a_t_h_o_g_e_n_s from the lunar surface
+was considered remote, it was considered a possibility and NASA took great
+precautions at the recovery site. Divers provided the astronauts with
+Biological Isolation Garments (BIGs) which were worn until they reached
+isolation facilities on board the Hornet. Additionally astronauts were rubbed
+down with a _s_o_d_i_u_m_ _h_y_p_o_c_h_l_o_r_i_t_e solution and the Command Module wiped with
+_B_e_t_a_d_i_n_e to remove any lunar dust that might be present. The raft containing
+decontamination materials was then intentionally sunk._[_5_8_]
+A second _S_e_a_ _K_i_n_g helicopter hoisted the astronauts aboard one by one, where a
+NASA _f_l_i_g_h_t_ _s_u_r_g_e_o_n gave each a brief physical check during the 0.5 nautical
+miles (930 m) trip back to the Hornet.
+The crew of Apollo 11 in _q_u_a_r_a_n_t_i_n_e after returning to Earth, visited by
+Richard Nixon
+After touchdown on the Hornet, the astronauts exited the helicopter, leaving
+the flight surgeon and three crewmen. The helicopter was then lowered into
+hangar bay #2 where the astronauts walked the 30 feet (9.1 m) to the _M_o_b_i_l_e
+_Q_u_a_r_a_n_t_i_n_e_ _F_a_c_i_l_i_t_y (MQF) where they would begin their 21 days of quarantine.
+This practice would continue for two more Apollo missions, Apollo 12 and _A_p_o_l_l_o
+_1_4, before the Moon was proven to be barren of life and the quarantine process
+dropped._[_5_8_]_[_5_9_]
+President Richard Nixon was aboard Hornet to personally welcome the astronauts
+back to Earth. He told the astronauts, "As a result of what you've done, the
+world has never been closer together before."_[_6_0_] After Nixon departed, the
+Hornet was brought alongside the five-ton Command Module where it was placed
+aboard by the ship's crane, placed on a dolly and moved next to the MQF. The
+Hornet sailed for _P_e_a_r_l_ _H_a_r_b_o_r where the Command Module and MQF were airlifted
+to the _J_o_h_n_s_o_n_ _S_p_a_c_e_ _C_e_n_t_e_r._[_5_8_]
+In accordance with the recently passed _E_x_t_r_a_-_T_e_r_r_e_s_t_r_i_a_l_ _E_x_p_o_s_u_r_e_ _L_a_w, the
+astronauts were placed in quarantine for fear that the Moon might contain
+undiscovered _p_a_t_h_o_g_e_n_s and that the astronauts might have been exposed to them
+during their Moon walks. However, after almost three weeks in confinement
+(first in their trailer and later in the _L_u_n_a_r_ _R_e_c_e_i_v_i_n_g_ _L_a_b_o_r_a_t_o_r_y at the
+Manned Spacecraft Center), the astronauts were given a clean bill of health.
+_[_6_1_] On August 10, 1969, the astronauts exited quarantine.
+******** CCeelleebbrraattiioonn ********
+Parade in _N_e_w_ _Y_o_r_k_ _C_i_t_y
+On August 13, they rode in parades in their honor in New York, Chicago, and Los
+Angeles. On the same evening in Los Angeles there was an official _S_t_a_t_e_ _D_i_n_n_e_r
+to celebrate the flight, attended by members of Congress, 44 governors, the
+_C_h_i_e_f_ _J_u_s_t_i_c_e_ _o_f_ _t_h_e_ _U_n_i_t_e_d_ _S_t_a_t_e_s, and ambassadors from 83 nations at the
+_C_e_n_t_u_r_y_ _P_l_a_z_a_ _H_o_t_e_l. President Richard Nixon and _V_i_c_e_ _P_r_e_s_i_d_e_n_t _S_p_i_r_o_ _T_._ _A_g_n_e_w
+honored each astronaut with a presentation of the _P_r_e_s_i_d_e_n_t_i_a_l_ _M_e_d_a_l_ _o_f
+_F_r_e_e_d_o_m. This celebration was the beginning of a 45-day "Giant Leap" tour that
+brought the astronauts to 25 foreign countries and included visits with
+prominent leaders such as _Q_u_e_e_n_ _E_l_i_z_a_b_e_t_h_ _I_I of the United Kingdom. Many
+nations honored the first manned _M_o_o_n_ _l_a_n_d_i_n_g with special features in
+magazines or by issuing Apollo 11 commemorative postage stamps or coins._[_6_2_]
+_[_6_3_]
+On September 16, 1969, the three astronauts spoke before a _j_o_i_n_t_ _s_e_s_s_i_o_n_ _o_f
+_C_o_n_g_r_e_s_s on _C_a_p_i_t_o_l_ _H_i_l_l. They presented two US flags, one to the House of
+Representatives and the other to the Senate, that had been carried to the
+surface of the Moon with them.
+********** MMoooonn rraaccee **********
+Artist's impression of Luna 15
+The _S_o_v_i_e_t_ _U_n_i_o_n was secretly attempting to compete with the US in landing a
+man on the Moon but had been hampered by repeated failures in development of _a
+_l_a_u_n_c_h_e_r_ _c_o_m_p_a_r_a_b_l_e_ _t_o_ _t_h_e_ _S_a_t_u_r_n_ _V._[_6_4_] Meanwhile, they tried to beat the US
+to return lunar material to the Earth by means of _u_n_m_a_n_n_e_d_ _p_r_o_b_e_s. On July 13,
+three days before Apollo 11's launch, they launched _L_u_n_a_ _1_5, which reached
+lunar orbit before Apollo 11. During descent, a malfunction caused Luna 15 to
+crash in _M_a_r_e_ _C_r_i_s_i_u_m about two hours before Armstrong and Aldrin took off from
+the surface. The _J_o_d_r_e_l_l_ _B_a_n_k_ _O_b_s_e_r_v_a_t_o_r_y radio telescope in England was later
+discovered to have recorded transmissions from Luna 15 during its descent, and
+this was published in July 2009 on the 40th anniversary of Apollo 11._[_6_5_]
+********** SSppaacceeccrraafftt llooccaattiioonn **********
+Command Module at the _N_a_t_i_o_n_a_l_ _A_i_r_ _a_n_d_ _S_p_a_c_e_ _M_u_s_e_u_m
+Lunar Module landing site photographed by the _L_R_O in 2012
+The Command Module is displayed at the _N_a_t_i_o_n_a_l_ _A_i_r_ _a_n_d_ _S_p_a_c_e_ _M_u_s_e_u_m,
+Washington, D.C. It is in the central Milestones of Flight exhibition hall in
+front of the Jefferson Drive entrance, sharing the main hall with other
+pioneering flight vehicles such as the _W_r_i_g_h_t_ _F_l_y_e_r, the _S_p_i_r_i_t_ _o_f_ _S_t_._ _L_o_u_i_s,
+the _B_e_l_l_ _X_-_1, the _N_o_r_t_h_ _A_m_e_r_i_c_a_n_ _X_-_1_5, _M_e_r_c_u_r_y spacecraft _F_r_i_e_n_d_s_h_i_p_ _7, and
+_G_e_m_i_n_i_ _4. Armstrong's and Aldrin's space suits are displayed in the museum's
+Apollo to the Moon exhibit. The quarantine trailer, the flotation collar, and
+the righting spheres are displayed at the Smithsonian's _S_t_e_v_e_n_ _F_._ _U_d_v_a_r_-_H_a_z_y
+_C_e_n_t_e_r annex near _W_a_s_h_i_n_g_t_o_n_ _D_u_l_l_e_s_ _I_n_t_e_r_n_a_t_i_o_n_a_l_ _A_i_r_p_o_r_t in Virginia.
+In 2009 the _L_u_n_a_r_ _R_e_c_o_n_n_a_i_s_s_a_n_c_e_ _O_r_b_i_t_e_r (LRO) imaged the various Apollo
+landing sites on the surface of the Moon with sufficient resolution to see the
+descent stages of the lunar modules, scientific instruments, and foot trails
+made by the astronauts.
+In March 2012 _A_m_a_z_o_n founder _J_e_f_f_ _B_e_z_o_s located the _F_-_1_ _e_n_g_i_n_e_s that launched
+Apollo 11 into space. The engines were found below the _A_t_l_a_n_t_i_c_ _O_c_e_a_n's surface
+through the use of advanced sonar scanning. His team brought at least one of
+the five engines to the surface._[_6_6_] In July 2013, it was confirmed through
+serial numbers (2044) that F-1 engine parts brought up from the depths of the
+Atlantic Ocean were from the Apollo 11 launch._[_6_7_]
+********** AAddddiittiioonnaall ddeettaaiillss **********
+ _W_i_k_i_s_o_u_r_c_e has original text related to this article:
+ _II_nn_ _EE_vv_ee_nn_tt_ _oo_ff_ _MM_oo_oo_nn_ _DD_ii_ss_aa_ss_tt_ee_rr
+Several books indicate early mission timelines had Buzz Aldrin rather than Neil
+Armstrong as the first man on the Moon._[_2_9_]
+********** 4400tthh aannnniivveerrssaarryy eevveennttss **********
+Mike Simons, director of the _N_a_t_i_o_n_a_l_ _E_l_e_c_t_r_o_n_i_c_s_ _M_u_s_e_u_m, assembles an Apollo
+TV camera for display at the _N_e_w_s_e_u_m
+On July 15, 2009, _L_i_f_e_._c_o_m released a photo gallery of previously unpublished
+photos of the astronauts taken by Life photographer _R_a_l_p_h_ _M_o_r_s_e prior to the
+Apollo 11 launch._[_6_8_]
+From July 16‚Äì24, 2009, NASA streamed the original mission audio on its
+website in real time 40 years to the minute after the events occurred._[_6_9_] In
+addition, it is in the process of restoring the video footage and has released
+a preview of key moments._[_7_0_]
+On July 20, 2009, the crew of Armstrong, Aldrin, and Collins met with U.S.
+President _B_a_r_a_c_k_ _O_b_a_m_a at the White House._[_7_1_] "We expect that there is, as we
+speak, another generation of kids out there who are looking up at the sky and
+are going to be the next Armstrong, Collins and Aldrin," Obama said. "We want
+to make sure that NASA is going to be there for them when they want to take
+their journey."_[_7_2_]
+The _J_o_h_n_ _F_._ _K_e_n_n_e_d_y_ _P_r_e_s_i_d_e_n_t_i_a_l_ _L_i_b_r_a_r_y_ _a_n_d_ _M_u_s_e_u_m set up a _F_l_a_s_h website that
+rebroadcasts the transmissions of Apollo 11 from launch to landing on the Moon.
+_[_7_3_]
+A group of British scientists interviewed as part of the anniversary events
+reflected on the significance of the Moon landing:
+     It was carried out in a technically brilliant way with risks
+     taken ... that would be inconceivable in the risk-averse world of
+     today ... The Apollo programme is arguably the greatest technical
+     achievement of mankind to date ... nothing since Apollo has come
+     close [to] the excitement that was generated by those astronauts -
+     Armstrong, Aldrin and the 10 others who followed them._[_7_4_]
+ Wikinews has related news: _FF_oo_rr_tt_ii_ee_tt_hh_ _aa_nn_nn_ii_vv_ee_rr_ss_aa_rr_yy_ _oo_ff_ _ff_ii_rr_ss_tt_ _mm_aa_nn_nn_ee_dd_ _MM_oo_oo_nn_ _ll_aa_nn_dd_ii_nn_gg
+On August 7, 2009, an act of Congress awarded the three astronauts a
+_C_o_n_g_r_e_s_s_i_o_n_a_l_ _G_o_l_d_ _M_e_d_a_l, the highest civilian award in the United States. The
+bill was sponsored by Florida Sen. _B_i_l_l_ _N_e_l_s_o_n and Florida Rep. _A_l_a_n_ _G_r_a_y_s_o_n.
+_[_7_5_]_[_7_6_]
+In July 2010, air to ground voice recordings and film footage shot in Mission
+Control during the Apollo 11 powered descent and landing was re-synchronised
+and released for the first time._[_7_7_]
+********** GGaalllleerryy **********
+    * Spectators camp out to watch the launch
+    * _L_a_u_n_c_h_ _C_o_n_t_r_o_l_ _C_e_n_t_e_r before liftoff
+    * Collins, Aldrin and Armstrong consult with pad leader _G_u_e_n_t_e_r_ _W_e_n_d_t after
+      Countdown Demonstration Test
+    * Roll-out of Saturn V AS-505 from the Vehicle Assembly Building to the
+      launch pad
+    * The Earth as seen from Apollo 11 on the third day out
+    * [File:A11v 1092338.ogg]_P_l_a_y_ _m_e_d_i_a
+      Neil Armstrong describes the Moon's surface before setting foot on it
+    * [File:President Nixon telephones the Apollo 11 crew on the Moon.ogg]_P_l_a_y
+      _m_e_d_i_a
+      President Nixon speaks to Armstrong and Aldrin from the Oval Office
+    * _T_h_e_ _W_a_s_h_i_n_g_t_o_n_ _P_o_s_t on Monday, July 21, 1969: "'The Eagle Has
+      Landed'‚ÄîTwo Men Walk on the Moon"
+    * Neil Armstrong's certification: "I certify that this World Scout Badge
+      was carried to the surface of the Moon on man's first lunar landing,
+      Apollo XI, July 20, 1969."
+    * _F_i_r_s_t_ _M_a_n_ _o_n_ _t_h_e_ _M_o_o_n_ _C_o_m_m_e_m_o_r_a_t_i_v_e_ _I_s_s_u_e_ _o_f_ _1_9_6_9
+    * Apollo 11 crew at the White House in 2004
+********** SSeeee aallssoo **********
+_[_P_o_r_t_a_l_ _i_c_o_n_] _S_p_a_c_e_f_l_i_g_h_t_ _p_o_r_t_a_l
+_[_P_o_r_t_a_l_ _i_c_o_n_] _H_o_u_s_t_o_n_ _p_o_r_t_a_l
+    * _A_p_o_l_l_o_ _1_1_ _f_l_i_g_h_t_,_ _a_r_t_i_s_t_ _c_o_n_c_e_p_t (an illustrated timeline)
+    * _A_p_o_l_l_o_ _1_1_ _i_n_ _p_o_p_u_l_a_r_ _c_u_l_t_u_r_e
+    * _A_p_o_l_l_o_ _1_1_ _m_i_s_s_i_n_g_ _t_a_p_e_s
+    * _A_p_o_l_l_o_ _G_u_i_d_a_n_c_e_ _C_o_m_p_u_t_e_r
+    * _G_o_o_g_l_e_ _M_o_o_n
+    * _L_i_s_t_ _o_f_ _m_a_n_-_m_a_d_e_ _o_b_j_e_c_t_s_ _o_n_ _t_h_e_ _M_o_o_n
+    * _L_i_s_t_ _o_f_ _s_p_a_c_e_w_a_l_k_s_ _a_n_d_ _m_o_o_n_w_a_l_k_s_ _1_9_6_5_‚_Ä_ì_1_9_9_9
+    * _M_o_o_n_ _l_a_n_d_i_n_g_ _c_o_n_s_p_i_r_a_c_y_ _t_h_e_o_r_i_e_s
+    * _W_e_r_n_h_e_r_ _v_o_n_ _B_r_a_u_n
+********** NNootteess **********
+   1. _^^ During the mission, the cause was diagnosed as the rendezvous radar
+      switch being in the wrong position, causing the computer to process data
+      from both the rendezvous and landing radars at the same time, as stated
+      in the letter._[_2_]_[_2_1_] However, software engineer Don Eyles concluded in a
+      2005 Guidance and Control Conference paper that the problem was actually
+      due to a hardware design bug previously seen during testing of the first
+      unmanned LM for _A_p_o_l_l_o_ _5. Having the rendezvous radar on (so that it was
+      warmed up in case of an emergency landing abort) should have been
+      irrelevant to the computer, but an electrical phasing mismatch between
+      two parts of the rendezvous radar system could cause the stationary
+      antenna to appear to the computer as dithering back and forth between two
+      positions, depending upon how the hardware randomly powered up. The extra
+      spurious _c_y_c_l_e_ _s_t_e_a_l_i_n_g, as the rendezvous radar updated an involuntary
+      counter, caused the computer alarms._[_2_2_] The Apollo onboard flight
+      software for both the CM and LM was developed using an asynchronous
+      executive so that higher priority jobs could interrupt lower priority
+      jobs. The sequence that occurred in the Apollo 11 landing was successful
+      because of its global error detection and recovery system. This included
+      the restart capability to "kill and start over again" and recompute and
+      the display interface routines ("priority displays") providing the
+      ability, in the case of an emergency, to interrupt nominal displays with
+      higher priority alarm displays. Steps previously taken to create
+      solutions that took advantage of this multiprogramming environment
+      suggested solutions for multiprocessing. Although only one process is
+      actively executing at a given time in a multiprogramming environment,
+      other processes in the same system‚Äïsleeping or waiting‚Äïexist in
+      parallel with the executing process. With this as a backdrop, the
+      priority display mechanisms were created, essentially changing the man-
+      machine interface between the astronauts and the onboard flight software
+      from synchronous to asynchronous displays so that a mission could be
+      reconfigured in real time should it become necessary to do so._[_2_3_]
+   2. _^^ A NASA transcript explains that the "a" article was intended, whether
+      or not it was said;_[_3_4_] the intention was to contrast a man (an
+      individual's action) and mankind (as a species).
+********** RReeffeerreenncceess **********
+ This article incorporates _p_u_b_l_i_c_ _d_o_m_a_i_n_ _m_a_t_e_r_i_a_l from websites or documents of
+the _N_a_t_i_o_n_a_l_ _A_e_r_o_n_a_u_t_i_c_s_ _a_n_d_ _S_p_a_c_e_ _A_d_m_i_n_i_s_t_r_a_t_i_o_n.
+   1. ^ _aa _bb _cc _dd _ee Orloff, Richard W. (September 2004) [First published 2000].
+      _"_T_a_b_l_e_ _o_f_ _C_o_n_t_e_n_t_s_". _A_p_o_l_l_o_ _b_y_ _t_h_e_ _N_u_m_b_e_r_s_:_ _A_ _S_t_a_t_i_s_t_i_c_a_l_ _R_e_f_e_r_e_n_c_e. NASA
+      History Division, Office of Policy and Plans. NASA History Series
+      (Washington, D.C.: _N_A_S_A). _I_S_B_N _0_-_1_6_-_0_5_0_6_3_1_-_X. _L_C_C_N _0_0_0_6_1_6_7_7. NASA SP-
+      2000-4029. Retrieved June 12, 2013. 
+   2. ^ _aa _bb _cc _A_p_o_l_l_o_ _1_1_ _M_i_s_s_i_o_n_ _R_e_p_o_r_t (PDF). _M_a_n_n_e_d_ _S_p_a_c_e_c_r_a_f_t_ _C_e_n_t_e_r, Mission
+      Evaluation Team (Houston, TX: NASA). November 1969. _O_C_L_C _1_0_9_7_0_8_6_2. MSC-
+      00171. Retrieved July 10, 2013. 
+   3. ^ _aa _bb _cc _dd _ee _"_A_p_o_l_l_o_ _1_1_ _M_i_s_s_i_o_n_ _S_u_m_m_a_r_y_". The Apollo Program. Smithsonian
+      National Air and Space Museum. Retrieved September 7, 2013. 
+   4. ^ _aa _bb _cc _dd _ee _ff _gg _hh Orloff, Richard W. (September 2004) [First published
+      2000]. _"_A_p_o_l_l_o_ _1_1_ _T_i_m_e_l_i_n_e_". _A_p_o_l_l_o_ _b_y_ _t_h_e_ _N_u_m_b_e_r_s_:_ _A_ _S_t_a_t_i_s_t_i_c_a_l
+      _R_e_f_e_r_e_n_c_e. NASA History Division, Office of Policy and Plans. NASA
+      History Series (Washington, D.C.: NASA). _I_S_B_N _0_-_1_6_-_0_5_0_6_3_1_-_X.
+      _L_C_C_N _0_0_0_6_1_6_7_7. NASA SP-2000-4029. Retrieved October 30, 2009. 
+   5. ^ _aa _bb _cc _dd Jones, Eric M., ed. (1995). _"_T_h_e_ _F_i_r_s_t_ _L_u_n_a_r_ _L_a_n_d_i_n_g_". Apollo
+      11 Lunar Surface Journal. NASA. Retrieved June 13, 2013. 
+   6. _^^ Grayzeck, Ed (December 11, 2003). _"_A_p_o_l_l_o_ _L_a_n_d_i_n_g_ _S_i_t_e_ _C_o_o_r_d_i_n_a_t_e_s_". US
+      National Space Science Data Center. Retrieved September 7, 2013. 
+   7. _^^ Stenger, Richard (May 25, 2001). _"_M_a_n_ _o_n_ _t_h_e_ _M_o_o_n_:_ _K_e_n_n_e_d_y_ _s_p_e_e_c_h
+      _i_g_n_i_t_e_d_ _t_h_e_ _d_r_e_a_m_". CNN. Archived from _t_h_e_ _o_r_i_g_i_n_a_l on June 6, 2010. 
+   8. _^^ Brooks, Courtney G.; Grimwood, James M.; Swenson, Loyd S., Jr. (1979).
+      _"_S_e_t_t_i_n_g_ _t_h_e_ _S_t_a_g_e_". _C_h_a_r_i_o_t_s_ _f_o_r_ _A_p_o_l_l_o_:_ _A_ _H_i_s_t_o_r_y_ _o_f_ _M_a_n_n_e_d_ _L_u_n_a_r
+      _S_p_a_c_e_c_r_a_f_t. NASA History Series. Foreword by _S_a_m_u_e_l_ _C_._ _P_h_i_l_l_i_p_s.
+      Washington, D.C.: Scientific and Technical Information Branch, NASA.
+      _I_S_B_N _9_7_8_-_0_-_4_8_6_-_4_6_7_5_6_-_6. _L_C_C_N _7_9_0_0_1_0_4_2. _O_C_L_C _4_6_6_4_4_4_9. NASA SP-4205.
+      Retrieved July 20, 2010. 
+   9. _^^ _S_l_a_y_t_o_n_,_ _D_o_n_a_l_d_ _K_._ _"_D_e_k_e_"; _C_a_s_s_u_t_t_,_ _M_i_c_h_a_e_l (1994). Deke! U.S. Manned
+      Space: From Mercury to the Shuttle (1st ed.). New York: _F_o_r_g_e. p. 237.
+      _I_S_B_N _0_-_3_1_2_-_8_5_5_0_3_-_6. _L_C_C_N _9_4_0_0_2_4_6_3. _O_C_L_C _2_9_8_4_5_6_6_3. 
+  10. _^^ _"_T_e_c_h_n_i_c_a_l_ _I_n_f_o_r_m_a_t_i_o_n_ _S_u_m_m_a_r_y_,_ _A_p_o_l_l_o_-_1_1_ _(_A_S_-_5_0_6_)_ _A_p_o_l_l_o_ _S_a_t_u_r_n_ _V
+      _S_p_a_c_e_ _V_e_h_i_c_l_e_" (PDF). _G_e_o_r_g_e_ _C_._ _M_a_r_s_h_a_l_l_ _S_p_a_c_e_ _F_l_i_g_h_t_ _C_e_n_t_e_r. Huntsvill,
+      AL: NASA. June 25, 1969. p. 8. Document ID: 19700011707; Accession
+      Number: 70N21012; Report Number: NASA-TM-X-62812; S&amp;E-ASTR-S-101-69.
+      Retrieved June 12, 2013. 
+  11. _^^ Farmer, Gene; Hamblin, Dora Jane; _A_r_m_s_t_r_o_n_g_,_ _N_e_i_l; Collins, Michael;
+      Aldrin, Edwin E., Jr. (1970). _F_i_r_s_t_ _o_n_ _t_h_e_ _M_o_o_n_:_ _A_ _V_o_y_a_g_e_ _w_i_t_h_ _N_e_i_l
+      _A_r_m_s_t_r_o_n_g_,_ _M_i_c_h_a_e_l_ _C_o_l_l_i_n_s_,_ _E_d_w_i_n_ _E_._ _A_l_d_r_i_n_,_ _J_r_. Epilogue by _A_r_t_h_u_r_ _C_.
+      _C_l_a_r_k_e. Boston: _L_i_t_t_l_e_,_ _B_r_o_w_n_ _a_n_d_ _C_o_m_p_a_n_y. p. 39. _I_S_B_N _0_-_7_1_8_1_-_0_7_3_6_-_5.
+      _L_C_C_N _7_6_1_0_3_9_5_0. 
+  12. _^^ _C_o_l_l_i_n_s_,_ _M_i_c_h_a_e_l (2001) [Originally published 1974; New York: _F_a_r_r_a_r_,
+      _S_t_r_a_u_s_ _a_n_d_ _G_i_r_o_u_x]. Carrying the Fire: An Astronaut's Journeys. Foreword
+      by _C_h_a_r_l_e_s_ _L_i_n_d_b_e_r_g. New York: Cooper Square Press. pp. 332‚Äì333.
+      _I_S_B_N _0_-_8_1_5_4_-_1_0_2_8_-_X. _L_C_C_N _2_0_0_1_0_1_7_0_8_0. 
+  13. _^^ _"_1_9_7_1_‚_Ä_ì_7_8_ _D_o_l_l_a_r_ _E_i_s_e_n_h_o_w_e_r_". CoinSite. ROKO Design Group, Inc. 1994.
+      Retrieved July 20, 2009. 
+  14. _^^ _"_S_u_s_a_n_ _B_._ _A_n_t_h_o_n_y_ _D_o_l_l_a_r_ _-_ _1_9_7_9_-_1_9_9_9_". United States Mint. Retrieved
+      August 12, 2014. 
+  15. _^^ Hansen, James R. (2005). _F_i_r_s_t_ _M_a_n_:_ _T_h_e_ _L_i_f_e_ _o_f_ _N_e_i_l_ _A_._ _A_r_m_s_t_r_o_n_g. New
+      York: _S_i_m_o_n_ _&_a_m_p_;_ _S_c_h_u_s_t_e_r. p. 527. _I_S_B_N _9_7_8_-_0_-_7_4_3_2_-_5_6_3_1_-_5.
+      _L_C_C_N _2_0_0_5_0_4_9_9_9_2. 
+  16. _^^ Slayton, Donald K.; Cassutt, Michael. Deke!: An Autobiography.
+      pp. 191‚Äì192. 
+  17. ^ _aa _bb _cc _"_A_p_o_l_l_o_-_1_1_ _(_2_7_)_". Historical Archive for Manned Missions. NASA.
+      Retrieved June 13, 2013. 
+  18. _^^ _"_A_p_o_l_l_o_ _1_1_ _L_u_n_a_r_ _L_a_n_d_i_n_g_ _M_i_s_s_i_o_n_" (PDF) (Press kit). Washington, D.C.:
+      NASA. July 6, 1969. Release No: 69-83K. Retrieved June 13, 2013. 
+  19. _^^ Collins, Michael; _A_l_d_r_i_n_,_ _E_d_w_i_n_ _E_._,_ _J_r_. (1975). _"_A_ _Y_e_l_l_o_w_ _C_a_u_t_i_o_n
+      _L_i_g_h_t_". In _C_o_r_t_r_i_g_h_t_,_ _E_d_g_a_r_ _M. _A_p_o_l_l_o_ _E_x_p_e_d_i_t_i_o_n_s_ _t_o_ _t_h_e_ _M_o_o_n.
+      Washington, D.C.: NASA. _O_C_L_C _1_6_2_3_4_3_4. NASA SP-350. Retrieved June 13,
+      2013.  Chapter 11.4.
+  20. _^^ _H_a_m_i_l_t_o_n_,_ _M_a_r_g_a_r_e_t_ _H_. (March 1, 1971). "Computer Got Loaded".
+      _D_a_t_a_m_a_t_i_o_n (Letter) (_C_a_h_n_e_r_s_ _P_u_b_l_i_s_h_i_n_g_ _C_o_m_p_a_n_y). _I_S_S_N _0_0_1_1_-_6_9_6_3. 
+  21. _^^ Martin, Fred H. (July 1994). _"_A_p_o_l_l_o_ _1_1_:_ _2_5_ _Y_e_a_r_s_ _L_a_t_e_r_". Apollo 11
+      Lunar Surface Journal. NASA. Retrieved June 13, 2013. 
+  22. _^^ Eyles, Don (February 6, 2004). _"_T_a_l_e_s_ _f_r_o_m_ _t_h_e_ _L_u_n_a_r_ _M_o_d_u_l_e_ _G_u_i_d_a_n_c_e
+      _C_o_m_p_u_t_e_r_". 27th annual Guidance and Control Conference. Breckenridge, CO:
+      _A_m_e_r_i_c_a_n_ _A_s_t_r_o_n_a_u_t_i_c_a_l_ _S_o_c_i_e_t_y. Retrieved June 13, 2013. 
+  23. _^^ Hamilton, Margaret H.; Hackler, William R. (December 2008). _"_U_n_i_v_e_r_s_a_l
+      _S_y_s_t_e_m_s_ _L_a_n_g_u_a_g_e_:_ _L_e_s_s_o_n_s_ _L_e_a_r_n_e_d_ _f_r_o_m_ _A_p_o_l_l_o_". Computer (Washington,
+      D.C.: _I_E_E_E_ _C_o_m_p_u_t_e_r_ _S_o_c_i_e_t_y) 4411 (12): 34‚Äì43. _d_o_i:_1_0_._1_1_0_9_/_M_C_._2_0_0_8_._5_4_1.
+      _I_S_S_N _0_0_1_8_-_9_1_6_2. Retrieved June 13, 2013. 
+  24. _^^ Rayl, A.J.S. (2008). _"_N_A_S_A_ _E_n_g_i_n_e_e_r_s_ _a_n_d_ _S_c_i_e_n_t_i_s_t_s_-_T_r_a_n_s_f_o_r_m_i_n_g_ _D_r_e_a_m_s
+      _I_n_t_o_ _R_e_a_l_i_t_y_". 50th Magazine. NASA. Retrieved June 9, 2014. 
+  25. _^^ Mindell, David A. (2008). Digital Apollo: Human and Machine in
+      Spaceflight. Cambridge, MA: _M_I_T_ _P_r_e_s_s. pp. 195‚Äì197. _I_S_B_N _9_7_8_-_0_-_2_6_2_-
+      _1_3_4_9_7_-_2. _L_C_C_N _2_0_0_7_0_3_2_2_5_5. 
+  26. _^^ "Failure is Not an Option". August 24, 2003. _O_C_L_C _5_4_4_3_5_6_7_0. _T_h_e_ _H_i_s_t_o_r_y
+      _C_h_a_n_n_e_l.
+  27. _^^ _"_J_a_m_e_s_ _M_a_y_ _s_p_e_a_k_s_ _t_o_ _C_h_a_r_l_e_s_ _D_u_k_e_". _B_B_C_ _A_r_c_h_i_v_e_s. _P_e_r_i_v_a_l_e: _B_B_C. 2009.
+      Retrieved June 7, 2009. 
+  28. _^^ Jones, Eric M., ed. (1995). _"_P_o_s_t_-_l_a_n_d_i_n_g_ _A_c_t_i_v_i_t_i_e_s_". Apollo 11 Lunar
+      Surface Journal. NASA. Retrieved June 13, 2013. 
+  29. ^ _aa _bb Chaikin, Andrew (1994). A Man on the Moon: The Triumphant Story Of
+      The Apollo Space Program. New York: _P_e_n_g_u_i_n_ _G_r_o_u_p. pp. 204, 623. _I_S_B_N _0_-
+      _1_4_-_0_2_7_2_0_1_-_1. 
+  30. _^^ _"_E_x_p_e_r_i_m_e_n_t_:_ _E_a_r_l_y_ _A_p_o_l_l_o_ _S_c_i_e_n_t_i_f_i_c_ _E_x_p_e_r_i_m_e_n_t_ _P_a_c_k_a_g_e_". NASA.
+      Retrieved July 18, 2009. 
+  31. _^^ Jones, Eric M.; Glover, Ken, eds. (1995). _"_F_i_r_s_t_ _S_t_e_p_s_". Apollo 11
+      Lunar Surface Journal. NASA. Retrieved September 23, 2006. 
+  32. _^^ Waligora, J.M.; Horrigan, D.J. (1975). _"_M_e_t_a_b_o_l_i_s_m_ _a_n_d_ _H_e_a_t_ _D_i_s_s_i_p_a_t_i_o_n
+      _D_u_r_i_n_g_ _A_p_o_l_l_o_ _E_V_A_ _P_e_r_i_o_d_s_". In Johnston, Richard S.; Dietlein, Lawrence
+      F.; Berry, Charles A. _B_i_o_m_e_d_i_c_a_l_ _R_e_s_u_l_t_s_ _o_f_ _A_p_o_l_l_o. Foreword by
+      _C_h_r_i_s_t_o_p_h_e_r_ _C_._ _K_r_a_f_t_,_ _J_r_. Washington, D.C.: NASA. NASA SP-368. Retrieved
+      September 23, 2006. 
+  33. _^^ Duggan, Paul (August 25, 2012). _"_N_e_i_l_ _A_r_m_s_t_r_o_n_g_,_ _f_i_r_s_t_ _m_a_n_ _t_o_ _s_t_e_p_ _o_n
+      _t_h_e_ _M_o_o_n_,_ _d_i_e_s_ _a_t_ _8_2_". _T_h_e_ _W_a_s_h_i_n_g_t_o_n_ _P_o_s_t. Retrieved May 25, 2013. 
+  34. ^ _aa _bb _cc _dd _ee _ff Jones, Eric M., ed. (1995). _"_O_n_e_ _S_m_a_l_l_ _S_t_e_p_". Apollo 11
+      Lunar Surface Journal. NASA. Retrieved June 13, 2013. 
+  35. _^^ Macey, Richard (August 5, 2006). _"_O_n_e_ _g_i_a_n_t_ _b_l_u_n_d_e_r_ _f_o_r_ _m_a_n_k_i_n_d_:_ _h_o_w
+      _N_A_S_A_ _l_o_s_t_ _M_o_o_n_ _p_i_c_t_u_r_e_s_". _T_h_e_ _S_y_d_n_e_y_ _M_o_r_n_i_n_g_ _H_e_r_a_l_d (Sydney: _F_a_i_r_f_a_x
+      _M_e_d_i_a). Retrieved June 13, 2013. 
+  36. _^^ Sarkissian, John M. (2001). _"_O_n_ _E_a_g_l_e_'_s_ _W_i_n_g_s_:_ _T_h_e_ _P_a_r_k_e_s_ _O_b_s_e_r_v_a_t_o_r_y_'_s
+      _S_u_p_p_o_r_t_ _o_f_ _t_h_e_ _A_p_o_l_l_o_ _1_1_ _M_i_s_s_i_o_n_". Publications of the Astronomical
+      Society of Australia (Collingwood, Victoria: _C_S_I_R_O_ _P_u_b_l_i_s_h_i_n_g for the
+      _A_s_t_r_o_n_o_m_i_c_a_l_ _S_o_c_i_e_t_y_ _o_f_ _A_u_s_t_r_a_l_i_a) 1188 (3): 287‚Äì310. _d_o_i:_1_0_._1_0_7_1_/
+      _A_S_0_1_0_3_8. Retrieved May 24, 2013.  October 2000 website version, part 10
+      of 12: "The Television Broadcasts." Original version available from _C_S_I_R_O
+      _P_a_r_k_e_s_ _O_b_s_e_r_v_a_t_o_r_y (PDF).
+  37. _^^ Sarkissian, John M. (2001). _"_O_n_ _E_a_g_l_e_'_s_ _W_i_n_g_s_:_ _T_h_e_ _P_a_r_k_e_s_ _O_b_s_e_r_v_a_t_o_r_y_'_s
+      _S_u_p_p_o_r_t_ _o_f_ _t_h_e_ _A_p_o_l_l_o_ _1_1_ _M_i_s_s_i_o_n_" (PDF). Publications of the Astronomical
+      Society of Australia (Collingwood, Victoria: CSIRO Publishing for the
+      Astronomical Society of Australia) 1188 (3): 287‚Äì310. _d_o_i:_1_0_._1_0_7_1_/
+      _A_S_0_1_0_3_8. Retrieved September 22, 2006. 
+  38. _^^ Canright, Shelley, ed. (July 15, 2004 (updated December 9, 2007)).
+      _"_A_p_o_l_l_o_ _M_o_o_n_ _L_a_n_d_i_n_g_ _-_-_ _3_5_t_h_ _A_n_n_i_v_e_r_s_a_r_y_". NASA Education. NASA.
+      Retrieved June 13, 2013.  Check date values in: |date= (_h_e_l_p) Includes
+      the "a" article as intended.
+  39. _^^ _"_A_r_m_s_t_r_o_n_g_ _'_g_o_t_ _M_o_o_n_ _q_u_o_t_e_ _r_i_g_h_t_'_". _B_B_C_ _N_e_w_s (London: BBC). October 2,
+      2006. Retrieved June 13, 2013.  News story on reanalysis which suggests
+      the line was said correctly (with the "a" article).
+  40. _^^ _G_h_o_s_h_,_ _P_a_l_l_a_b (June 3, 2009). _"_A_r_m_s_t_r_o_n_g_'_s_ _'_p_o_e_t_i_c_'_ _s_l_i_p_ _o_n_ _M_o_o_n_". BBC
+      News (London: BBC). Retrieved June 13, 2013.  News story on later
+      reanalysis which suggests the line was said incorrectly.
+  41. _^^ Carreau, Mark (September 30, 2006). _"_H_e_a_r_ _w_h_a_t_ _N_e_i_l_ _A_r_m_s_t_r_o_n_g_ _r_e_a_l_l_y
+      _s_a_i_d_ _o_n_ _t_h_e_ _m_o_o_n_". _H_o_u_s_t_o_n_ _C_h_r_o_n_i_c_l_e (_H_e_a_r_s_t_ _C_o_r_p_o_r_a_t_i_o_n). Retrieved June
+      13, 2013. 
+  42. _^^ Adams, Cecil. _"_D_i_d_ _a_s_t_r_o_n_a_u_t_ _N_e_i_l_ _A_r_m_s_t_r_o_n_g_ _m_u_f_f_ _h_i_s_ _h_i_s_t_o_r_i_c_ _"_o_n_e
+      _s_m_a_l_l_ _s_t_e_p_"_ _l_i_n_e_?_". 
+  43. _^^ Mikkelson, Barbara &amp; David P. _"_O_n_e_ _S_m_a_l_l_ _S_t_e_p_" at _S_n_o_p_e_s_._c_o_m: Urban
+      Legends Reference Pages.
+  44. _^^ Meyer, Charles (2009). _"_L_u_n_a_r_ _S_a_m_p_l_e_ _C_o_m_p_e_n_d_i_u_m_:_ _C_o_n_t_i_n_g_e_n_c_y_ _S_o_i_l_ 
+      _(_1_0_0_1_0_)_" (PDF). Astromaterials Research &amp; Exploration Science. NASA.
+      Retrieved June 13, 2013. 
+  45. _^^ _"_E_v_e_n_t_s_ _o_f_ _1_9_6_9_:_ _A_p_o_l_l_o_ _1_1_". UPI.com (_U_n_i_t_e_d_ _P_r_e_s_s_ _I_n_t_e_r_n_a_t_i_o_n_a_l).
+      1969. Retrieved June 13, 2013. 
+  46. _^^ _"_E_x_h_i_b_i_t_:_ _A_p_o_l_l_o_ _1_1_ _a_n_d_ _N_i_x_o_n_". American Originals. Washington, D.C.:
+      _N_a_t_i_o_n_a_l_ _A_r_c_h_i_v_e_s_ _a_n_d_ _R_e_c_o_r_d_s_ _A_d_m_i_n_i_s_t_r_a_t_i_o_n. March 1996. Retrieved April
+      13, 2008. 
+  47. _^^ This was related by Frank Borman during the 2008 documentary _W_h_e_n_ _W_e
+      _L_e_f_t_ _E_a_r_t_h_:_ _T_h_e_ _N_A_S_A_ _M_i_s_s_i_o_n_s, part 2.
+  48. _^^ _"_W_h_i_t_e_ _H_o_u_s_e_ _'_L_o_s_t_ _I_n_ _S_p_a_c_e_'_ _S_c_e_n_a_r_i_o_s_". _T_h_e_ _S_m_o_k_i_n_g_ _G_u_n. New York:
+      _T_u_r_n_e_r_ _B_r_o_a_d_c_a_s_t_i_n_g_ _S_y_s_t_e_m. August 8, 2005. Retrieved May 25, 2013. 
+      Scanned copy of the "In Event of Moon Disaster" memo.
+  49. _^^ Mann, Jim (July 7, 1999). _"_T_h_e_ _S_t_o_r_y_ _o_f_ _a_ _T_r_a_g_e_d_y_ _T_h_a_t_ _W_a_s_ _N_o_t_ _t_o_ _B_e_".
+      _L_o_s_ _A_n_g_e_l_e_s_ _T_i_m_e_s. Retrieved May 25, 2013. 
+  50. ^ _aa _bb _S_a_f_i_r_e_,_ _W_i_l_l_i_a_m (July 12, 1999). _"_E_s_s_a_y_;_ _D_i_s_a_s_t_e_r_ _N_e_v_e_r_ _C_a_m_e_". _N_e_w
+      _Y_o_r_k_ _T_i_m_e_s. Retrieved May 25, 2013. 
+  51. _^^ Jones, Eric M., ed. (1995). _"_E_A_S_E_P_ _D_e_p_l_o_y_m_e_n_t_ _a_n_d_ _C_l_o_s_e_o_u_t_". Apollo 11
+      Lunar Surface Journal. NASA. Retrieved June 13, 2013. 
+  52. _^^ _"_N_e_i_l_ _A_r_m_s_t_r_o_n_g_ _E_x_p_l_a_i_n_s_ _H_i_s_ _F_a_m_o_u_s_ _A_p_o_l_l_o_ _1_1_ _M_o_o_n_w_a_l_k_". _s_p_a_c_e_._c_o_m. New
+      York: _T_e_c_h_M_e_d_i_a_N_e_t_w_o_r_k_,_ _I_n_c_. December 10, 2010. Retrieved May 25, 2013. 
+  53. ^ _aa _bb Jones, Eric M., ed. (1995). _"_T_r_y_i_n_g_ _t_o_ _R_e_s_t_". Apollo 11 Lunar
+      Surface Journal. NASA. Retrieved June 13, 2013. 
+  54. _^^ _M_u_r_r_a_y_,_ _C_h_a_r_l_e_s_ _A_.; Cox, Catherine Bly (1989). Apollo: The Race to the
+      Moon. New York: Simon &amp; Schuster. _I_S_B_N _0_-_6_7_1_-_6_1_1_0_1_-_1. _L_C_C_N _8_9_0_0_6_3_3_3. 
+  55. _^^ _"_A_p_o_l_l_o_ _1_1_ _G_o_o_d_w_i_l_l_ _M_e_s_s_a_g_e_s_" (PDF) (Press release). Washington, D.C.:
+      NASA. July 13, 1969. Release No: 69-83F. Retrieved June 14, 2013. 
+  56. _^^ Williams, David R. _"_A_p_o_l_l_o_ _T_a_b_l_e_s_". _N_a_t_i_o_n_a_l_ _S_p_a_c_e_ _S_c_i_e_n_c_e_ _D_a_t_a_ _C_e_n_t_e_r.
+      NASA. Retrieved September 23, 2006. 
+  57. _^^ Rodriguez, Rachel (July 20, 2009). _"_T_h_e_ _1_0_-_y_e_a_r_-_o_l_d_ _w_h_o_ _h_e_l_p_e_d_ _A_p_o_l_l_o
+      _1_1_,_ _4_0_ _y_e_a_r_s_ _l_a_t_e_r_". CNN. Retrieved January 10, 2011. 
+  58. ^ _aa _bb _cc Fish, Bob (2009). Hornet Plus Three: The Story of the Apollo 11
+      Recovery. Foreword by _R_i_c_h_a_r_d_ _G_o_r_d_o_n (1st ed.). Reno, NV: Creative Minds
+      Press. _I_S_B_N _9_7_8_-_0_-_9_7_4_9_6_1_0_-_7_-_1. 
+  59. _^^ _"_A_f_t_e_r_ _S_p_l_a_s_h_d_o_w_n_". Apollo to the Moon. Washington, D.C.: _N_a_t_i_o_n_a_l_ _A_i_r
+      _a_n_d_ _S_p_a_c_e_ _M_u_s_e_u_m. July 1999. Retrieved August 15, 2013. 
+  60. _^^ Gannon, Frank (July 23, 2008). _"_2_4_ _J_u_l_y_ _1_9_6_9_:_ _H_o_m_e_ _F_r_o_m_ _T_h_e_ _M_o_o_n_". The
+      New Nixon. _R_i_c_h_a_r_d_ _N_i_x_o_n_ _F_o_u_n_d_a_t_i_o_n. Retrieved July 20, 2009. 
+  61. _^^ _"_A_ _F_r_o_n_t_ _R_o_w_ _S_e_a_t_ _F_o_r_ _H_i_s_t_o_r_y_". NASAexplores. NASA. July 15, 2004.
+      Archived from _t_h_e_ _o_r_i_g_i_n_a_l on March 19, 2006. Retrieved June 14, 2013. 
+  62. _^^ Wilson, Bill (July 23, 1969). _"_F_a_m_i_l_i_e_s_ _W_a_i_t_ _f_o_r_ _M_o_o_n_ _M_e_n_". _A_u_s_t_r_a_l_i_a_n
+      _W_o_m_e_n_'_s_ _W_e_e_k_l_y (Sydney: _A_u_s_t_r_a_l_i_a_n_ _C_o_n_s_o_l_i_d_a_t_e_d_ _P_r_e_s_s_ _L_t_d_.) 3377 (8):
+      2‚Äì4. Retrieved July 19, 2013. 
+  63. _^^ _"_L_u_n_a_r_ _M_i_s_s_i_o_n_s_:_ _A_p_o_l_l_o_ _1_1_". Lunar Hall of Fame. 2008. Archived from
+      _t_h_e_ _o_r_i_g_i_n_a_l on 2008-10-24. Retrieved June 9, 2014. 
+  64. _^^ Lindroos, Marcus. _"_T_h_e_ _S_o_v_i_e_t_ _M_a_n_n_e_d_ _L_u_n_a_r_ _P_r_o_g_r_a_m_" (PDF). _M_I_T
+      _O_p_e_n_C_o_u_r_s_e_W_a_r_e. _M_a_s_s_a_c_h_u_s_e_t_t_s_ _I_n_s_t_i_t_u_t_e_ _o_f_ _T_e_c_h_n_o_l_o_g_y. Retrieved October
+      4, 2011. 
+  65. _^^ Brown, Jonathan (July 3, 2009). _"_R_e_c_o_r_d_i_n_g_ _t_r_a_c_k_s_ _R_u_s_s_i_a_'_s_ _M_o_o_n
+      _g_a_t_e_c_r_a_s_h_ _a_t_t_e_m_p_t_". _T_h_e_ _I_n_d_e_p_e_n_d_e_n_t (London: Independent Print Limited).
+      Retrieved January 10, 2011. 
+  66. _^^ _"_A_m_a_z_o_n_ _b_o_s_s_ _J_e_f_f_ _B_e_z_o_s_ _'_f_i_n_d_s_ _A_p_o_l_l_o_ _1_1_ _M_o_o_n_ _e_n_g_i_n_e_s_'_". BBC News
+      (London: BBC). March 28, 2012. Retrieved June 14, 2013. 
+  67. _^^ Gorman, Ryan (July 20, 2013). _"_A_p_o_l_l_o_ _1_1_ _r_o_c_k_e_t_ _e_n_g_i_n_e_s_ _t_h_a_t_ _p_u_t_ _m_a_n_ _o_n
+      _t_h_e_ _m_o_o_n_ _d_i_s_c_o_v_e_r_e_d_ _a_t_ _b_o_t_t_o_m_ _o_f_ _t_h_e_ _A_t_l_a_n_t_i_c_ _a_n_d_ _c_o_n_f_i_r_m_e_d_ _a_ _d_a_y_ _b_e_f_o_r_e
+      _t_h_e_ _4_4_t_h_ _a_n_n_i_v_e_r_s_a_r_y_ _o_f_ _A_r_m_s_t_r_o_n_g_'_s_ _f_i_r_s_t_ _s_t_e_p_s_". _M_a_i_l_ _O_n_l_i_n_e (London:
+      _D_M_G_ _M_e_d_i_a). Retrieved July 20, 2013. 
+  68. _^^ _"_L_I_F_E_:_ _U_p_ _C_l_o_s_e_ _W_i_t_h_ _A_p_o_l_l_o_ _1_1_". _L_i_f_e (_T_i_m_e_ _I_n_c_.). Retrieved June 14,
+      2013. 
+  69. _^^ _"_A_p_o_l_l_o_ _1_1_ _O_n_b_o_a_r_d_ _A_u_d_i_o_". Apollo 40th Anniversary. NASA. Retrieved
+      June 14, 2013. 
+  70. _^^ Garner, Robert (ed.). _"_A_p_o_l_l_o_ _1_1_ _P_a_r_t_i_a_l_ _R_e_s_t_o_r_a_t_i_o_n_ _H_D_ _V_i_d_e_o_s_ 
+      _(_D_o_w_n_l_o_a_d_s_)_". NASA. Retrieved June 14, 2013. 
+  71. _^^ _"_A_p_o_l_l_o_ _1_1_ _C_r_e_w_ _M_e_e_t_s_ _W_i_t_h_ _P_r_e_s_i_d_e_n_t_ _O_b_a_m_a_". Image of the Day Gallery.
+      NASA. July 20, 2009. Retrieved June 9, 2014. 
+  72. _^^ Zeleny, Jeff (July 21, 2009). _"_O_b_a_m_a_ _H_a_i_l_s_ _A_p_o_l_l_o_ _C_r_e_w_ _F_r_o_m_ _a_ _L_e_n_s_ _o_f
+      _C_h_i_l_d_h_o_o_d_". The New York Times. 
+  73. _^^ _"_W_e_ _C_h_o_o_s_e_ _t_h_e_ _M_o_o_n_". _J_o_h_n_ _F_._ _K_e_n_n_e_d_y_ _P_r_e_s_i_d_e_n_t_i_a_l_ _L_i_b_r_a_r_y_ _a_n_d_ _M_u_s_e_u_m.
+      _A_r_c_h_i_v_e_d from the original on July 21, 2009. Retrieved July 19, 2009. 
+  74. _^^ _"_M_o_o_n_ _l_a_n_d_i_n_g_s_:_ _B_r_i_t_i_s_h_ _s_c_i_e_n_t_i_s_t_s_ _s_a_l_u_t_e_ _s_p_a_c_e_ _h_e_r_o_e_s_". _T_h_e_ _D_a_i_l_y
+      _T_e_l_e_g_r_a_p_h (London: _T_e_l_e_g_r_a_p_h_ _M_e_d_i_a_ _G_r_o_u_p). July 17, 2009. Retrieved June
+      14, 2013. 
+  75. _^^ _"_T_e_x_t_ _o_f_ _S_._9_5_1_ _a_s_ _E_n_g_r_o_s_s_e_d_ _i_n_ _S_e_n_a_t_e_:_ _N_e_w_ _F_r_o_n_t_i_e_r_ _C_o_n_g_r_e_s_s_i_o_n_a_l_ _G_o_l_d
+      _M_e_d_a_l_ _A_c_t_ _-_ _U_._S_._ _C_o_n_g_r_e_s_s_ _-_ _O_p_e_n_C_o_n_g_r_e_s_s_". OpenCongress.org. Retrieved
+      June 14, 2013. 
+  76. _^^ _"_T_e_x_t_ _o_f_ _H_._R_._2_2_4_5_ _a_s_ _E_n_r_o_l_l_e_d_ _B_i_l_l_:_ _N_e_w_ _F_r_o_n_t_i_e_r_ _C_o_n_g_r_e_s_s_i_o_n_a_l_ _G_o_l_d
+      _M_e_d_a_l_ _A_c_t_ _-_ _U_._S_._ _C_o_n_g_r_e_s_s_ _-_ _O_p_e_n_C_o_n_g_r_e_s_s_". OpenCongress.org. Retrieved
+      June 14, 2013. 
+  77. _^^ _R_i_l_e_y_,_ _C_h_r_i_s_t_o_p_h_e_r (July 20, 2010). _"_S_o_u_n_d_ _r_e_s_t_o_r_e_d_ _t_o_ _m_i_s_s_i_o_n_ _c_o_n_t_r_o_l
+      _f_i_l_m_ _s_h_o_t_ _d_u_r_i_n_g_ _A_p_o_l_l_o_ _1_1_ _m_o_o_n_ _l_a_n_d_i_n_g_". _T_h_e_ _G_u_a_r_d_i_a_n (London: _G_u_a_r_d_i_a_n
+      _M_e_d_i_a_ _G_r_o_u_p). Retrieved July 11, 2013. 
+********** FFuurrtthheerr rreeaaddiinngg **********
+    * Cappellari, J.O. Jr. (May‚ÄìJune 1972). Where on the Moon? An Apollo
+      Systems Engineering Problem. _B_e_l_l_ _S_y_s_t_e_m_ _T_e_c_h_n_i_c_a_l_ _J_o_u_r_n_a_l 5511 (5). New
+      York: _A_m_e_r_i_c_a_n_ _T_e_l_e_p_h_o_n_e_ _a_n_d_ _T_e_l_e_g_r_a_p_h_ _C_o_m_p_a_n_y. pp. 955‚Äì1127.
+      _O_C_L_C _1_7_7_7_9_6_2_3. 
+    * Barbour, John Andrews (1969). Footprints on the Moon. Writers and editors
+      of the _A_s_s_o_c_i_a_t_e_d_ _P_r_e_s_s. Manuscript by John Barbour. New York: Associated
+      Press. _O_C_L_C _2_6_3_4_1. 
+    * _F_r_e_n_c_h_,_ _F_r_a_n_c_i_s; _B_u_r_g_e_s_s_,_ _C_o_l_i_n (2007). _I_n_ _t_h_e_ _S_h_a_d_o_w_ _o_f_ _t_h_e_ _M_o_o_n_:_ _A
+      _C_h_a_l_l_e_n_g_i_n_g_ _J_o_u_r_n_e_y_ _t_o_ _T_r_a_n_q_u_i_l_i_t_y_,_ _1_9_6_5_‚_Ä_ì_1_9_6_9. Outward Odyssey: A
+      People's History of Spaceflight. Foreword by _W_a_l_t_e_r_ _C_u_n_n_i_n_g_h_a_m. Lincoln,
+      NE: _U_n_i_v_e_r_s_i_t_y_ _o_f_ _N_e_b_r_a_s_k_a_ _P_r_e_s_s. _I_S_B_N _9_7_8_-_0_-_8_0_3_2_-_1_1_2_8_-_5. 
+    * Rahman, Tahir (2008). We Came in Peace for All Mankind: The Untold Story
+      of the Apollo 11 Silicon Disc (1st ed.). Overland Park, KS: Leathers
+      Publishing. _I_S_B_N _9_7_8_-_1_-_5_8_5_9_7_-_4_4_1_-_2. 
+FFoorr yyoouunngg rreeaaddeerrss
+    * _A_l_d_r_i_n_,_ _B_u_z_z (2005). Reaching for the Moon. Paintings by Wendell Minor
+      (1st ed.). New York: _H_a_r_p_e_r_C_o_l_l_i_n_s. 40 pages. _I_S_B_N _0_-_0_6_-_0_5_5_4_4_6_-_0. 
+    * _F_l_o_c_a_,_ _B_r_i_a_n (2009). Moonshot: The Flight of Apollo 11. New York:
+      _A_t_h_e_n_e_u_m_ _B_o_o_k_s_ _f_o_r_ _Y_o_u_n_g_ _R_e_a_d_e_r_s. 48 pages. _I_S_B_N _9_7_8_-_1_-_4_1_6_9_-_5_0_4_6_-_2. 
+    * Thimmesh, Catherine (2006). Team Moon: How 400,000 People Landed Apollo
+      11 on the Moon. New York: Houghton Mifflin Company. 80 pages. _I_S_B_N _9_7_8_-_0_-
+      _6_1_8_-_5_0_7_5_7_-_3. 
+********** EExxtteerrnnaall lliinnkkss **********
+ Wikimedia Commons has media related to _AA_pp_oo_ll_ll_oo_ _11_11.
+    * _"_A_p_o_l_l_o_ _1_1_ _t_r_a_n_s_c_r_i_p_t_s_" at _S_p_a_c_e_l_o_g
+    * _"_M_a_g_n_i_f_i_c_e_n_t_ _D_e_s_o_l_a_t_i_o_n_:_ _T_h_e_ _A_p_o_l_l_o_ _1_1_ _M_o_o_n_w_a_l_k_ _P_i_c_t_u_r_e_s_" by _A_p_o_l_l_o_ _L_u_n_a_r
+      _S_u_r_f_a_c_e_ _J_o_u_r_n_a_l contributor Joseph O'Dea. Complete gallery of Apollo 11
+      EVA pictures.
+    * _"_A_p_o_l_l_o_ _1_1_" Detailed mission information by Dr. David R. Williams, NASA
+      _G_o_d_d_a_r_d_ _S_p_a_c_e_ _F_l_i_g_h_t_ _C_e_n_t_e_r
+    * _"_A_p_o_l_l_o_ _1_1_" Photographer Blaise Thirard's presentation of Apollo 11
+      photographs
+    * Sylvester, Rachel; Coates, Sam. _"_M_e_n_ _o_n_ _t_h_e_ _M_o_o_n_". _T_h_e_ _T_i_m_e_s (London:
+      _N_e_w_s_ _C_o_r_p_o_r_a_t_i_o_n). Archived from _t_h_e_ _o_r_i_g_i_n_a_l on May 31, 2010. Retrieved
+      May 24, 2013.  Original reports from The Times (London)
+    * _"_A_p_o_l_l_o_ _4_0_t_h_ _A_n_n_i_v_e_r_s_a_r_y_". NASA. July 2009. _A_r_c_h_i_v_e_d from the original on
+      July 18, 2009. Retrieved July 18, 2009.  NASA website honoring the
+      mission
+    * _"_T_h_e_ _u_n_t_o_l_d_ _s_t_o_r_y_:_ _h_o_w_ _o_n_e_ _s_m_a_l_l_ _s_i_l_i_c_o_n_ _d_i_s_c_ _d_e_l_i_v_e_r_e_d_ _a_ _g_i_a_n_t_ _m_e_s_s_a_g_e
+      _t_o_ _t_h_e_ _M_o_o_n_" at collectSPACE.com
+    * _"_A_p_o_l_l_o_ _A_n_n_i_v_e_r_s_a_r_y_:_ _M_o_o_n_ _L_a_n_d_i_n_g_ _'_I_n_s_p_i_r_e_d_ _W_o_r_l_d_'_" National Geographic
+      News, July 16, 2004 - 35th anniversary of Apollo 11; Steven Dick, NASA's
+      chief historian: "... a thousand years from now, that step may be
+      considered the crowning achievement of the 20th century."
+    * _"_T_e_n_ _T_h_i_n_g_s_ _Y_o_u_ _D_i_d_n_'_t_ _K_n_o_w_ _A_b_o_u_t_ _t_h_e_ _A_p_o_l_l_o_ _1_1_ _M_o_o_n_ _L_a_n_d_i_n_g_" by Craig
+      Nelson, _P_o_p_u_l_a_r_ _M_e_c_h_a_n_i_c_s, July 13, 2009
+    * _"_C_o_v_e_r_a_g_e_ _o_f_ _t_h_e_ _F_l_i_g_h_t_ _o_f_ _A_p_o_l_l_o_ _1_1_ _-_ _(_1_9_6_9_)_" provided by Todd Kosovich
+      for RadioTapes.com. Radio station recordings (airchecks) covering the
+      flight of Apollo 11.
+    * _"_S_p_a_c_e_ _M_i_s_s_i_o_n_s_" at Buzz Aldrin's official website
+    * _"_A_p_o_l_l_o_ _1_1_ _&_a_m_p_;_ _1_2_ _R_e_c_o_v_e_r_y_" written by Bob Fish for the _U_S_S_ _H_o_r_n_e_t
+      _M_u_s_e_u_m
+NNAASSAA rreeppoorrttss
+    * _"_A_p_o_l_l_o_ _1_1_ _L_u_n_a_r_ _L_a_n_d_i_n_g_ _M_i_s_s_i_o_n_" (PDF) - NASA press kit, Release No: 69-
+      83K, July 6, 1969
+    * _"_A_p_o_l_l_o_ _P_r_o_g_r_a_m_ _S_u_m_m_a_r_y_ _R_e_p_o_r_t_". NASA History Program Office. NASA. April
+      1975. _A_r_c_h_i_v_e_d from the original on September 29, 2006. Retrieved
+      September 23, 2006.  - 200+ pages
+    * Ertel, Ivan (1969‚Äì1978). _T_h_e_ _A_p_o_l_l_o_ _S_p_a_c_e_c_r_a_f_t_:_ _A_ _C_h_r_o_n_o_l_o_g_y II‚‚ÄÄììIIVV.
+      Morse, M.L.; Bays, J.K.; Brooks, C.G.; Newkirk, R.W. Washington, D.C.:
+      NASA. _L_C_C_N _6_9_0_6_0_0_0_8. _O_C_L_C _2_3_8_1_8. NASA SP-4009. Retrieved September 23,
+      2006. 
+    * _"_A_p_o_l_l_o_ _1_1_ _M_i_s_s_i_o_n_ _R_e_p_o_r_t_" (PDF). NASA. 1971.  - 230 pages
+    * _"_E_P_-_7_2_ _L_o_g_ _o_f_ _A_p_o_l_l_o_ _1_1_". NASA History Program Office. NASA. Retrieved
+      January 16, 2006.  - Timeline of the mission, from _"_O_n_e_ _G_i_a_n_t_ _L_e_a_p_ _f_o_r
+      _M_a_n_d_k_i_n_d_,_" 2004.
+    * _N_A_S_A_ _T_e_c_h_n_i_c_a_l_ _R_e_p_o_r_t_s_ _S_e_r_v_e_r
+MMuullttiimmeeddiiaa
+    * _"_'_T_o_ _t_h_e_ _M_o_o_n_ _a_n_d_ _B_a_c_k_'_:_ _L_I_F_E_ _C_o_v_e_r_s_ _t_h_e_ _A_p_o_l_l_o_ _1_1_ _M_i_s_s_i_o_n_". Time.
+      Retrieved July 20, 2013.  - _L_i_f_e magazine Special Edition, August 11,
+      1969
+    * _"_A_p_o_l_l_o_ _1_1_:_ _S_c_e_n_e_s_ _F_r_o_m_ _t_h_e_ _M_o_o_n_". Archived from _t_h_e_ _o_r_i_g_i_n_a_l on July 17,
+      2009. Retrieved June 13, 2013.  - slideshow by Life magazine
+    * Garner, Robert (ed.). _"_A_p_o_l_l_o_ _1_1_ _P_a_r_t_i_a_l_ _R_e_s_t_o_r_a_t_i_o_n_ _H_D_ _V_i_d_e_o_s_ 
+      _(_D_o_w_n_l_o_a_d_s_)_". NASA. Retrieved June 13, 2013.  - Remastered videos of the
+      original landing.
+    * Jones, Eric M. Jones, ed. (1995). _"_A_p_o_l_l_o_ _1_1_ _L_u_n_a_r_ _S_u_r_f_a_c_e_ _J_o_u_r_n_a_l_".
+      Apollo 11 Lunar Surface Journal. NASA. Retrieved September 23, 2006.  -
+      Transcripts and audio clips of important parts of the mission
+    * Jones, Eric M.; Glover, Ken, eds. (1995‚Äì2009). _"_A_p_o_l_l_o_ _1_1_ _I_m_a_g_e
+      _L_i_b_r_a_r_y_". Apollo 11 Lunar Surface Journal. NASA. Retrieved September 23,
+      2006.  - Hundreds of high-resolution images of the mission, including
+      assembled panoramas.
+    * _"_A_p_o_l_l_o_ _M_i_s_s_i_o_n_ _T_r_a_v_e_r_s_e_ _M_a_p_s_". _U_S_G_S. Archived from _t_h_e_ _o_r_i_g_i_n_a_l on
+      September 24, 2006. Retrieved September 23, 2006.  - Several maps showing
+      routes of moonwalks
+    * _G_o_o_g_l_e_ _M_o_o_n - with lunar landing sites tagged
+    * _A_p_o_l_l_o_ _L_u_n_a_r_ _S_u_r_f_a_c_e_ _V_R_ _P_a_n_o_r_a_m_a_s at moonpans.com
+    * _A_p_o_l_l_o_ _I_m_a_g_e_ _A_r_c_h_i_v_e at _A_r_i_z_o_n_a_ _S_t_a_t_e_ _U_n_i_v_e_r_s_i_t_y
+    * _A_p_o_l_l_o_ _l_a_u_n_c_h_ _a_n_d_ _m_i_s_s_i_o_n_ _v_i_d_e_o_s at ApolloTV.net
+    * _R_e_a_l_-_t_i_m_e_ _a_u_d_i_o_v_i_s_u_a_l_ _r_e_c_r_e_a_t_i_o_n_ _o_f_ _t_h_e_ _A_p_o_l_l_o_ _1_1_ _m_i_s_s_i_o_n to coincide
+      with the 40th anniversary of Apollo 11, from the _J_o_h_n_ _F_._ _K_e_n_n_e_d_y
+      _P_r_e_s_i_d_e_n_t_i_a_l_ _L_i_b_r_a_r_y_ _a_n_d_ _M_u_s_e_u_m
+    * _R_e_a_l_-_t_i_m_e_ _a_u_d_i_o_v_i_s_u_a_l_ _r_e_c_r_e_a_t_i_o_n_ _o_f_ _t_h_e_ _l_u_n_a_r_ _m_o_d_u_l_e_ _l_a_n_d_i_n_g with audio
+      feeds from the crew of Apollo 11 and Ground Control
+    * _M_o_o_n_w_a_l_k_ _O_n_e_ _-_ _A_p_o_l_l_o_ _1_1_ _:_ _N_e_i_l_ _A_r_m_s_t_r_o_n_g_ _-_ _T_h_e_ _F_i_r_s_t_ _M_a_n_ _o_n_ _t_h_e_ _M_o_o_n_ _-
+      _1_9_6_9_ _N_A_S_A_ _D_o_c_u_m_e_n_t_a_r_y on _Y_o_u_T_u_b_e
+    * _T_h_e_ _E_a_g_l_e_ _H_a_s_ _L_a_n_d_e_d_ _:_ _T_h_e_ _F_l_i_g_h_t_ _o_f_ _A_p_o_l_l_o_ _1_1_ _&_a_m_p_;_ _N_e_i_l_ _A_r_m_s_t_r_o_n_g
+      _L_a_n_d_i_n_g_ _o_n_ _t_h_e_ _M_o_o_n_ _-_ _N_A_S_A_ _D_o_c_u_m_e_n_t_a_r_y on _Y_o_u_T_u_b_e
+    * _A_p_o_l_l_o_ _1_1_ _"_F_o_r_ _A_l_l_ _o_f_ _M_a_n_k_i_n_d_"_ _:_ _N_e_i_l_ _A_r_m_s_t_r_o_n_g_ _L_a_n_d_i_n_g_ _O_n_ _T_h_e_ _M_o_o_n_ _-
+      _N_A_S_A_ _D_o_c_u_m_e_n_t_a_r_y on _Y_o_u_T_u_b_e
+    ** _vv
+    ** _tt
+    ** _ee
+MMiissssiioonnss ooff tthhee _AA_pp_oo_ll_ll_oo_ _pp_rr_oo_gg_rr_aa_mm
+                             * _S_A_-_1
+                             * _S_A_-_2
+RRoocckkeett tteessttss                 * _S_A_-_3
+                             * _S_A_-_4
+                             * _S_A_-_5
+                             * _A_S_-_2_0_3
+                             * _Q_T_V
+                             * _P_a_d_ _A_b_o_r_t_ _T_e_s_t_-_1
+                             * _A_-_0_0_1
+AAbboorrtt tteessttss                  * _A_-_0_0_2
+                             * _A_-_0_0_3
+                             * _P_a_d_ _A_b_o_r_t_ _T_e_s_t_-_2
+                             * _A_-_0_0_4
+                             * _A_S_-_1_0_1
+                             * _A_S_-_1_0_2
+_BB_oo_ii_ll_ee_rr_pp_ll_aa_tt_ee tteessttss            * _A_S_-_1_0_3
+                             * _A_S_-_1_0_4
+                             * _A_S_-_1_0_5
+                             * _A_S_-_2_0_1
+                             * _A_S_-_2_0_2
+UUnnmmaannnneedd mmiissssiioonnss            * _A_p_o_l_l_o_ _4            _[_A_p_o_l_l_o_ _P_r_o_g_r_a_m_ _i_n_s_i_g_n_i_a_]
+                             * _A_p_o_l_l_o_ _5
+                             * _A_p_o_l_l_o_ _6
+                             * _S_k_y_l_a_b_ _1
+                             * _A_p_o_l_l_o_ _7
+                             * _A_p_o_l_l_o_ _9
+                             * _S_k_y_l_a_b_ _2
+_LL_oo_ww_ _EE_aa_rr_tt_hh_ _oo_rr_bb_ii_tt mmiissssiioonnss     * _S_k_y_l_a_b_ _3
+                             * _S_k_y_l_a_b_ _4
+                             * _A_p_o_l_l_o_‚_Ä_ì_S_o_y_u_z_ _T_e_s_t
+                               _P_r_o_j_e_c_t
+LLuunnaarr oorrbbiitt mmiissssiioonnss         * _A_p_o_l_l_o_ _8
+                             * _A_p_o_l_l_o_ _1_0
+                             * AAppoolllloo 1111
+                             * _A_p_o_l_l_o_ _1_2
+LLuunnaarr llaannddiinngg mmiissssiioonnss       * _A_p_o_l_l_o_ _1_4
+                             * _A_p_o_l_l_o_ _1_5
+                             * _A_p_o_l_l_o_ _1_6
+                             * _A_p_o_l_l_o_ _1_7
+FFaaiilleedd mmiissssiioonnss              * _A_p_o_l_l_o_ _1_ _(_A_S_-_2_0_4_)
+                             * _A_p_o_l_l_o_ _1_3
+    * _L_i_s_t_ _o_f_ _m_i_s_s_i_o_n_s
+    * _M_i_s_s_i_o_n_ _t_y_p_e_s
+    * _K_e_n_n_e_d_y_ _S_p_a_c_e_ _C_e_n_t_e_r
+          o _L_a_u_n_c_h_ _C_o_m_p_l_e_x_ _3_9
+    * _C_a_n_c_e_l_e_d_ _m_i_s_s_i_o_n_s
+    ** _vv
+    ** _tt
+    ** _ee
+_MM_oo_oo_nn
+                      * _F_a_c_e_ _o_n_ _t_h_e_ _M_o_o_n
+                      * _I_n_t_e_r_n_a_l_ _s_t_r_u_c_t_u_r_e
+                      * _G_r_a_v_i_t_y_ _f_i_e_l_d
+PPhhyyssiiccaall              * _T_o_p_o_g_r_a_p_h_y
+LLuunnaarr ffeeaattuurreess        * _M_a_g_n_e_t_i_c_ _f_i_e_l_d
+                      * _A_t_m_o_s_p_h_e_r_e
+                      * _I_o_n_ _t_a_i_l
+                      * _M_o_o_n_l_i_g_h_t
+                      * _O_r_b_i_t_ _o_f_ _t_h_e_ _M_o_o_n
+                      * _P_h_a_s_e_s
+                      * _L_u_n_a_t_i_o_n
+LLuunnaarr oorrbbiitt           * _F_u_l_l_ _m_o_o_n_ _c_y_c_l_e
+                      * _L_u_n_a_r_ _e_c_l_i_p_s_e
+                      * _S_o_l_a_r_ _e_c_l_i_p_s_e_s_ _o_n_ _M_o_o_n
+                      * _T_i_d_e
+                      * _S_e_l_e_n_o_g_r_a_p_h_y
+                      * _N_e_a_r_ _s_i_d_e
+                      * _F_a_r_ _s_i_d_e
+                      * _N_o_r_t_h_ _p_o_l_e
+                      * _S_o_u_t_h_ _p_o_l_e
+                      * _L_u_n_a_r_ _m_a_r_e
+                            o _L_i_s_t
+                      * _C_r_a_t_e_r_s
+                            o _L_i_s_t
+LLuunnaarr ssuurrffaaccee         * _M_o_u_n_t_a_i_n_s
+                      * _V_a_l_l_e_y_s
+                      * _S_o_u_t_h_ _P_o_l_e_‚_Ä_ì_A_i_t_k_e_n_ _b_a_s_i_n
+                      * _S_h_a_c_k_l_e_t_o_n_ _c_r_a_t_e_r
+                      * _W_a_t_e_r
+                      * _S_o_i_l
+                      * _P_e_a_k_ _o_f_ _e_t_e_r_n_a_l_ _l_i_g_h_t
+                      * _C_r_a_t_e_r_ _o_f_ _e_t_e_r_n_a_l_ _d_a_r_k_n_e_s_s
+                      * _S_p_a_c_e_ _w_e_a_t_h_e_r_i_n_g
+                      * _T_r_a_n_s_i_e_n_t_ _l_u_n_a_r_ _p_h_e_n_o_m_e_n_o_n
+                      * _L_u_n_a_r_ _b_a_s_a_l_t_ _7_0_0_1_7
+                      * _G_e_o_l_o_g_y
+                            o _t_i_m_e_s_c_a_l_e
+                      * _G_i_a_n_t_ _i_m_p_a_c_t_ _h_y_p_o_t_h_e_s_i_s        _[_A_ _f_u_l_l_ _m_o_o_n_]
+                      * _H_i_l_l_ _s_p_h_e_r_e
+                      * _M_o_o_n_ _r_o_c_k_s
+                      * _L_u_n_a_r_ _m_e_t_e_o_r_i_t_e_s
+LLuunnaarr sscciieennccee         * _K_R_E_E_P
+                      * _L_a_t_e_ _H_e_a_v_y_ _B_o_m_b_a_r_d_m_e_n_t
+                      * _L_u_n_a_r_ _l_a_s_e_r_ _r_a_n_g_i_n_g
+                      * _A_L_S_E_P
+                      * _O_b_s_e_r_v_a_t_i_o_n
+                      * _O_r_i_g_i_n
+                      * _A_p_o_l_l_o_ _1_1_ _l_u_n_a_r_ _s_a_m_p_l_e_ _d_i_s_p_l_a_y
+                      * _A_p_o_l_l_o_ _1_7_ _l_u_n_a_r_ _s_a_m_p_l_e_ _d_i_s_p_l_a_y
+                      * _A_p_o_l_l_o_ _p_r_o_g_r_a_m
+                      * _E_x_p_l_o_r_a_t_i_o_n_ _o_f_ _t_h_e_ _M_o_o_n
+                      * _C_o_l_o_n_i_z_a_t_i_o_n_ _o_f_ _t_h_e_ _M_o_o_n
+LLuunnaarr eexxpplloorraattiioonn     * _L_i_s_t_ _o_f_ _l_u_n_a_r_ _p_r_o_b_e_s
+                      * _L_i_s_t_ _o_f_ _m_i_s_s_i_o_n_s_ _t_o_ _t_h_e_ _M_o_o_n
+                            o _p_r_o_p_o_s_e_d
+                      * _M_o_o_n_ _l_a_n_d_i_n_g
+                            o _c_o_n_s_p_i_r_a_c_y_ _t_h_e_o_r_i_e_s
+                      * _L_u_n_a_r_ _c_a_l_e_n_d_a_r
+                      * _L_u_n_i_s_o_l_a_r_ _c_a_l_e_n_d_a_r
+                      * _C_r_a_t_e_r_s_ _n_a_m_e_d_ _a_f_t_e_r_ _p_e_o_p_l_e
+                      * _D_o_u_b_l_e_ _p_l_a_n_e_t
+                      * _L_u_n_a_r_ _e_f_f_e_c_t
+                      * _M_a_n_ _i_n_ _t_h_e_ _M_o_o_n
+                      * _M_e_m_o_r_i_a_l_s_ _o_n_ _t_h_e_ _M_o_o_n
+                      * _M_o_n_t_h
+RReellaatteedd               * _L_u_n_a_r_ _m_o_n_t_h
+LLuunnaarr ttooppiiccss          * _M_o_o_n_ _i_l_l_u_s_i_o_n
+                            o _H_a_r_v_e_s_t_ _m_o_o_n
+                            o _H_u_n_t_e_r_'_s_ _m_o_o_n
+                      * _M_o_o_n_ _i_n_ _a_r_t_ _a_n_d_ _l_i_t_e_r_a_t_u_r_e
+                      * _M_o_o_n_ _i_n_ _m_y_t_h_o_l_o_g_y
+                      * _M_o_o_n_ _i_s_ _m_a_d_e_ _o_f_ _g_r_e_e_n_ _c_h_e_e_s_e
+                      * _N_a_t_u_r_a_l_ _s_a_t_e_l_l_i_t_e
+                      * _S_o_l_a_r_ _S_y_s_t_e_m
+                      * _S_u_p_e_r_m_o_o_n
+    * [Category] _CC_aa_tt_ee_gg_oo_rr_yy
+    * [Portal] _MM_oo_oo_nn_ _pp_oo_rr_tt_aa_ll
+    * [Portal] _EE_aa_rr_tt_hh_ _ss_cc_ii_ee_nn_cc_ee_ss_ _pp_oo_rr_tt_aa_ll
+    * [Portal] _SS_oo_ll_aa_rr_ _SS_yy_ss_tt_ee_mm_ _pp_oo_rr_tt_aa_ll
+    ** _vv
+    ** _tt
+    ** _ee
+_‚‚_ÜÜ_êê_ _11_99_66_88  ¬¬∑∑  _OO_rr_bb_ii_tt_aa_ll_ _ll_aa_uu_nn_cc_hh_ee_ss_ _ii_nn_ _11_99_66_99  ¬¬∑∑  _11_99_77_00_ _‚‚_ÜÜ_íí
+_V_e_n_e_r_a_ _5 | _V_e_n_e_r_a_ _6 | _K_o_s_m_o_s_ _2_6_3 | _SS_oo_yy_uu_zz_ _44 | _SS_oo_yy_uu_zz_ _55 | _7_K_-_L_1_ _N_o_._1_3_L | _O_S_O_-_5 |
+_O_P_S_ _7_5_8_5 | _K_o_s_m_o_s_ _2_6_4 | _U_S_-_A_ _N_o_._5 | _I_s_i_s_ _1 | _M_e_t_e_o_r_-_1_ _N_o_._1_1 | _O_P_S_ _3_8_9_0 ¬¬∑∑ _O_P_S
+_2_6_4_4 | _I_n_t_e_l_s_a_t_ _I_I_I_ _F_-_3 | _K_o_s_m_o_s_ _2_6_5 | _O_P_S_ _0_7_5_7 | _L_u_n_a_ _E_-_8_ _N_o_._2_0_1 | _7_K_-_L_1_S
+_N_o_._3 | _M_a_r_i_n_e_r_ _6 | _K_o_s_m_o_s_ _2_6_6 | _E_S_S_A_-_9 | _K_o_s_m_o_s_ _2_6_7 | _AA_pp_oo_ll_ll_oo_ _99 | _O_P_S_ _4_2_4_8 |
+_K_o_s_m_o_s_ _2_6_8 | _K_o_s_m_o_s_ _2_6_9 | _K_o_s_m_o_s_ _2_7_0 | _K_o_s_m_o_s_ _2_7_1 | _K_o_s_m_o_s_ _2_7_2 | _O_V_1_-_1_7 ¬¬∑∑
+_O_V_1_-_1_8 ¬¬∑∑ _O_V_1_-_1_9 ¬¬∑∑ _O_r_b_i_s_c_a_l_ _2 | _O_P_S_ _3_7_2_2 ¬¬∑∑ _O_P_S_ _2_2_8_5 | _K_o_s_m_o_s_ _2_7_3 | _K_o_s_m_o_s
+_2_7_4 | _M_e_t_e_o_r_-_1_ _N_o_._1_2 | _2_M_ _N_o_._5_2_1 | _M_a_r_i_n_e_r_ _7 | _K_o_s_m_o_s_ _2_7_5 | _2_M_ _N_o_._5_2_2 |
+_K_o_s_m_o_s_ _2_7_6 | _K_o_s_m_o_s_ _2_7_7 | _K_o_s_m_o_s_ _2_7_8 | _M_o_l_n_i_y_a_-_1_ _N_o_._1_6 | _O_P_S_ _3_1_4_8 | _N_i_m_b_u_s
+_3 ¬¬∑∑ _S_E_C_O_R_ _1_3 | _K_o_s_m_o_s_ _2_7_9 | _O_P_S_ _5_3_1_0 | _K_o_s_m_o_s_ _2_8_0 | _O_P_S_ _1_1_0_1 ¬¬∑∑ _O_P_S_ _1_7_2_1 |
+_K_o_s_m_o_s_ _2_8_1 | _AA_pp_oo_ll_ll_oo_ _11_00 | _K_o_s_m_o_s_ _2_8_2 | _I_n_t_e_l_s_a_t_ _I_I_I_ _F_-_4 | _O_P_S_ _6_9_0_9 ¬¬∑∑ _O_P_S
+_6_9_1_1 ¬¬∑∑ _E_R_S_-_2_9 ¬¬∑∑ _E_R_S_-_2_6 ¬¬∑∑ _O_V_5_-_9 | _K_o_s_m_o_s_ _2_8_3 | _K_o_s_m_o_s_ _2_8_4 | _K_o_s_m_o_s_ _2_8_5 |
+_O_P_S_ _1_0_7_7 | _O_G_O_-_6 | _L_u_n_a_ _E_-_8_-_5_ _N_o_._4_0_2 | _K_o_s_m_o_s_ _2_8_6 | _E_x_p_l_o_r_e_r_ _4_1 | _K_o_s_m_o_s_ _2_8_7
+| _K_o_s_m_o_s_ _2_8_8 | _B_i_o_s_a_t_e_l_l_i_t_e_ _3 | _S_T_V_-_2 | _7_K_-_L_1_S_ _N_o_._5 | _K_o_s_m_o_s_ _2_8_9 | _L_u_n_a_ _1_5 |
+AAppoolllloo 1111 | _K_o_s_m_o_s_ _2_9_0 | _M_o_l_n_i_y_a_-_1_ _N_o_._1_8 | _O_P_S_ _1_1_2_7 | _D_S_-_P_1_-_Y_u_ _N_o_._2_3 | _O_P_S
+_3_6_5_4 | _I_n_t_e_l_s_a_t_ _I_I_I_ _F_-_5 | _O_P_S_ _8_2_8_5 | _K_o_s_m_o_s_ _2_9_1 | _Z_o_n_d_ _7 | _O_S_O_-_6 ¬¬∑∑ _P_A_C_-_1 |
+_A_T_S_-_5 | _K_o_s_m_o_s_ _2_9_2 | _K_o_s_m_o_s_ _2_9_3 | _K_o_s_m_o_s_ _2_9_4 | _K_o_s_m_o_s_ _2_9_5 | _O_P_S_ _7_8_0_7 |
+_P_i_o_n_e_e_r_ _E ¬¬∑∑ _E_R_S_-_3_2 | _K_o_s_m_o_s_ _2_9_6 | _K_o_s_m_o_s_ _2_9_7 | _K_o_s_m_o_s_ _2_9_8 | _K_o_s_m_o_s_ _2_9_9 |
+_U_n_n_a_m_e_d | _O_P_S_ _3_5_3_1 ¬¬∑∑ _O_P_S_ _4_7_1_0 | _K_o_s_m_o_s_ _3_0_0 | _K_o_s_m_o_s_ _3_0_1 | _O_P_S_ _7_6_1_3 ¬¬∑∑ _N_R_L
+_P_L_-_1_6_1 ¬¬∑∑ _N_R_L_ _P_L_-_1_6_2 ¬¬∑∑ _N_R_L_ _P_L_-_1_6_3 ¬¬∑∑ _N_R_L_ _P_L_-_1_6_4 ¬¬∑∑ _N_R_L_ _P_L_-_1_7_6 ¬¬∑∑ _T_i_m_a_t_i_o_n
+_2 ¬¬∑∑ _T_e_m_p_s_a_t_ _2 ¬¬∑∑ _S_O_I_C_A_L_ _C_o_n_e ¬¬∑∑ _S_O_I_C_A_L_ _C_y_l_i_n_d_e_r | _E_S_R_O_-_1_B | _M_e_t_e_o_r_-_1_ _N_o_._1_5 |
+_SS_oo_yy_uu_zz_ _66 | _SS_oo_yy_uu_zz_ _77 | _SS_oo_yy_uu_zz_ _88 | _I_n_t_e_r_k_o_s_m_o_s_ _1 | _K_o_s_m_o_s_ _3_0_2 | _K_o_s_m_o_s_ _3_0_3 |
+_K_o_s_m_o_s_ _3_0_4 | _K_o_s_m_o_s_ _3_0_5 | _K_o_s_m_o_s_ _3_0_6 | _K_o_s_m_o_s_ _3_0_7 | _O_P_S_ _8_4_5_5 | _K_o_s_m_o_s_ _3_0_8 |
+_A_z_u_r | _K_o_s_m_o_s_ _3_0_9 | _AA_pp_oo_ll_ll_oo_ _11_22 | _K_o_s_m_o_s_ _3_1_0 | _S_k_y_n_e_t_ _1_A | _K_o_s_m_o_s_ _3_1_1 | _K_o_s_m_o_s
+_3_1_2 | _7_K_-_L_1_e_ _N_o_._1 | _K_o_s_m_o_s_ _3_1_3 | _O_P_S_ _6_6_1_7 | _K_o_s_m_o_s_ _3_1_4 | _K_o_s_m_o_s_ _3_1_5 | _K_o_s_m_o_s
+_3_1_6 | _K_o_s_m_o_s_ _3_1_7 | _I_n_t_e_r_k_o_s_m_o_s_ _2 | _U_n_n_a_m_e_d
+Payloads are separated by bullets ( ¬¬∑∑ ), launches by pipes ( | ). Manned
+flights are indicated in bold text. Uncatalogued launch failures are listed
+in italics. Payloads deployed from other spacecraft are denoted in brackets.
+    ** _vv
+    ** _tt
+    ** _ee
+_NN_aa_tt_ii_oo_nn_aa_ll_ _AA_ee_rr_oo_nn_aa_uu_tt_ii_cc_ss_ _aa_nn_dd_ _SS_pp_aa_cc_ee_ _AA_dd_mm_ii_nn_ii_ss_tt_rr_aa_tt_ii_oo_nn ((NNAASSAA))
+                                * _N_A_C_A (1915)
+                                * _N_a_t_i_o_n_a_l_ _A_e_r_o_n_a_u_t_i_c_s_ _a_n_d
+                                  _S_p_a_c_e_ _A_c_t (1958)
+                                * _P_a_i_n_e (1986)
+                                * _R_o_g_e_r_s (1986)
+                                * _R_i_d_e (1987)
+                                * _S_p_a_c_e_ _E_x_p_l_o_r_a_t_i_o_n_ _I_n_i_t_i_a_t_i_v_e
+                                  (1989)
+                    HHiissttoorryy     * _A_u_g_u_s_t_i_n_e (1990)
+                                * _U_._S_._ _N_a_t_i_o_n_a_l_ _S_p_a_c_e_ _P_o_l_i_c_y
+                                  (1996)
+                                * _C_F_U_S_A_I (2002)
+                                * _C_A_I_B (2003)
+                                * _V_i_s_i_o_n_ _f_o_r_ _S_p_a_c_e_ _E_x_p_l_o_r_a_t_i_o_n
+                                  (2004)
+                                * _A_l_d_r_i_d_g_e (2004)
+                                * _A_u_g_u_s_t_i_n_e (2009)
+_PP_oo_ll_ii_cc_yy aanndd hhiissttoorryy              * _S_p_a_c_e_ _R_a_c_e
+                                * _A_d_m_i_n_i_s_t_r_a_t_o_r_ _a_n_d_ _D_e_p_u_t_y
+                                  _A_d_m_i_n_i_s_t_r_a_t_o_r
+                                * _C_h_i_e_f_ _S_c_i_e_n_t_i_s_t
+                                * _A_s_t_r_o_n_a_u_t_ _C_o_r_p_s
+                                * _B_u_d_g_e_t
+                                * _S_p_i_n_-_o_f_f_ _t_e_c_h_n_o_l_o_g_i_e_s
+                                * _N_A_S_A_ _T_V
+                    GGeenneerraall     * _N_A_S_A_ _S_o_c_i_a_l
+                                * _L_a_u_n_c_h_ _S_e_r_v_i_c_e_s_ _P_r_o_g_r_a_m
+                                * _K_e_n_n_e_d_y_ _S_p_a_c_e_ _C_e_n_t_e_r
+                                      o _V_e_h_i_c_l_e_ _A_s_s_e_m_b_l_y
+                                        _B_u_i_l_d_i_n_g
+                                      o _L_a_u_n_c_h_ _C_o_m_p_l_e_x_ _3_9
+                                      o _L_a_u_n_c_h_ _C_o_n_t_r_o_l_ _C_e_n_t_e_r
+                                * _J_o_h_n_s_o_n_ _S_p_a_c_e_ _C_e_n_t_e_r
+                                      o _M_i_s_s_i_o_n_ _C_o_n_t_r_o_l
+                                      o _L_u_n_a_r_ _S_a_m_p_l_e_ _L_a_b_o_r_a_t_o_r_y
+                                * _H_i_t_c_h_h_i_k_e_r
+                                * _M_a_r_i_n_e_r
+                                * _M_a_r_i_n_e_r_ _M_a_r_k_ _I_I
+                                * _M_E_S_U_R
+                                * _M_a_r_s_ _S_u_r_v_e_y_o_r_ _'_9_8
+                                * _N_e_w_ _M_i_l_l_e_n_n_i_u_m
+                    PPaasstt        * _L_u_n_a_r_ _O_r_b_i_t_e_r
+                                * _P_i_o_n_e_e_r
+                                * _P_l_a_n_e_t_a_r_y_ _O_b_s_e_r_v_e_r
+                                * _R_a_n_g_e_r
+                                * _S_u_r_v_e_y_o_r
+                                * _V_i_k_i_n_g
+_RR_oo_bb_oo_tt_ii_cc pprrooggrraammss                * _P_r_o_j_e_c_t_ _P_r_o_m_e_t_h_e_u_s
+                                * _M_a_r_s_ _S_c_o_u_t
+                                * _L_i_v_i_n_g_ _W_i_t_h_ _a_ _S_t_a_r
+                                * _L_u_n_a_r_ _P_r_e_c_u_r_s_o_r_ _R_o_b_o_t_i_c
+                                  _P_r_o_g_r_a_m
+                                * _E_a_r_t_h_ _O_b_s_e_r_v_i_n_g_ _S_y_s_t_e_m
+                                * _G_r_e_a_t_ _O_b_s_e_r_v_a_t_o_r_i_e_s_ _p_r_o_g_r_a_m
+                    CCuurrrreenntt     * _E_x_p_l_o_r_e_r
+                                * _S_m_a_l_l_ _e_x_p_l_o_r_e_r
+                                * _V_o_y_a_g_e_r
+                                * _D_i_s_c_o_v_e_r_y
+                                * _N_e_w_ _F_r_o_n_t_i_e_r_s
+                                * _M_a_r_s_ _E_x_p_l_o_r_a_t_i_o_n_ _R_o_v_e_r
+                                * _X_-_1_5 (_s_u_b_o_r_b_i_t_a_l)
+                                * _M_e_r_c_u_r_y
+                                * _G_e_m_i_n_i
+                                * _A_p_o_l_l_o
+                    PPaasstt        * _A_p_o_l_l_o_‚_Ä_ì_S_o_y_u_z_ _T_e_s_t_ _P_r_o_j_e_c_t 
+                                  (with _U_S_S_R)
+                                * _S_k_y_l_a_b
+                                * _S_h_u_t_t_l_e_‚_Ä_ì_M_i_r (with _R_u_s_s_i_a)
+_HH_uu_mm_aa_nn_ _ss_pp_aa_cc_ee_ff_ll_ii_gg_hh_tt               * _S_p_a_c_e_ _S_h_u_t_t_l_e_ _p_r_o_g_r_a_m
+pprrooggrraammss                        * _C_o_n_s_t_e_l_l_a_t_i_o_n_ _p_r_o_g_r_a_m
+                                * _I_n_t_e_r_n_a_t_i_o_n_a_l_ _S_p_a_c_e_ _S_t_a_t_i_o_n
+                                  _p_r_o_g_r_a_m
+                                * _C_o_m_m_e_r_c_i_a_l_ _O_r_b_i_t_a_l
+                    CCuurrrreenntt       _T_r_a_n_s_p_o_r_t_a_t_i_o_n_ _S_e_r_v_i_c_e_s
+                                  (COTS)                        _[_N_A_S_A_ _l_o_g_o_._s_v_g_]
+                                * _C_o_m_m_e_r_c_i_a_l_ _C_r_e_w_ _D_e_v_e_l_o_p_m_e_n_t
+                                  (CCDev)
+                                * _O_r_i_o_n
+                                  * _C_O_B_E
+                                  * AAppoolllloo 1111
+                                  * _M_e_r_c_u_r_y_ _3
+                                  * _M_e_r_c_u_r_y_-_A_t_l_a_s_ _6
+                                  * _M_a_g_e_l_l_a_n
+                    PPaasstt          * _P_i_o_n_e_e_r_ _1_0/_1_1
+                                  * _G_a_l_i_l_e_o
+                                  * _G_A_L_E_X
+                                  * _G_R_A_I_L
+                                  * _W_M_A_P
+                                  * _S_p_a_c_e_ _S_h_u_t_t_l_e
+                                  * _M_R_O
+                                  * _M_a_r_s_ _O_d_y_s_s_e_y
+                                  * _M_E_S_S_E_N_G_E_R
+                                  * _D_a_w_n
+                                  * _N_e_w_ _H_o_r_i_z_o_n_s
+                                  * _K_e_p_l_e_r
+                                  * _I_n_t_e_r_n_a_t_i_o_n_a_l_ _S_p_a_c_e_ _S_t_a_t_i_o_n
+                                  * _H_u_b_b_l_e_ _S_p_a_c_e_ _T_e_l_e_s_c_o_p_e
+                                  * _S_p_i_t_z_e_r
+                                  * _R_H_E_S_S_I
+                                  * _S_W_I_F_T
+                                  * _T_H_E_M_I_S
+                                  * _M_a_r_s_ _E_x_p_l_o_r_a_t_i_o_n_ _R_o_v_e_r
+                                  * _C_u_r_i_o_s_i_t_y_ _r_o_v_e_r
+                                        o _t_i_m_e_l_i_n_e
+IInnddiivviidduuaall ffeeaattuurreedd CCuurrrreennttllyy     * _O_p_p_o_r_t_u_n_i_t_y_ _r_o_v_e_r
+_mm_ii_ss_ss_ii_oo_nn_ss            ooppeerraattiinngg           o _o_b_s_e_r_v_e_d
+((hhuummaann aanndd rroobboottiicc))               * _C_a_s_s_i_n_i
+                                  * _G_O_E_S_ _1_4
+                                  * _L_u_n_a_r_ _R_e_c_o_n_n_a_i_s_s_a_n_c_e
+                                    _O_r_b_i_t_e_r
+                                  * _L_A_D_E_E
+                                  * _G_O_E_S_ _1_5
+                                  * _V_a_n_ _A_l_l_e_n_ _P_r_o_b_e_s
+                                  * _S_D_O
+                                  * _A_q_u_a_r_i_u_s
+                                  * _J_u_n_o
+                                  * _M_a_r_s_ _S_c_i_e_n_c_e_ _L_a_b_o_r_a_t_o_r_y
+                                        o _t_i_m_e_l_i_n_e
+                                  * _N_u_S_T_A_R
+                                  * _V_o_y_a_g_e_r_ _1/_2
+                                  * _W_I_S_E
+                                  * _M_A_V_E_N
+                                  * _N_P_P
+                                  * _J_a_m_e_s_ _W_e_b_b_ _S_p_a_c_e_ _T_e_l_e_s_c_o_p_e
+                                  * _W_F_I_R_S_T
+                                  * _I_n_S_i_g_h_t
+                                  * _O_S_I_R_I_S_-_R_E_x
+                    FFuuttuurree        * _M_M_S
+                                  * _A_s_t_e_r_o_i_d_ _R_e_t_r_i_e_v_a_l_ _a_n_d
+                                    _U_t_i_l_i_z_a_t_i_o_n
+                                  * _M_a_r_s_ _2_0_2_0
+                                  * _N_I_S_A_R
+                                  * _T_r_a_n_s_i_t_i_n_g_ _E_x_o_p_l_a_n_e_t_ _S_u_r_v_e_y
+                                    _S_a_t_e_l_l_i_t_e
+                        * _S_p_a_c_e_ _N_e_t_w_o_r_k
+                        * _N_e_a_r_ _E_a_r_t_h_ _N_e_t_w_o_r_k
+_CC_oo_mm_mm_uu_nn_ii_cc_aa_tt_ii_oo_nn_ss          * _D_e_e_p_ _S_p_a_c_e_ _N_e_t_w_o_r_k (_G_o_l_d_s_t_o_n_e
+_aa_nn_dd_ _NN_aa_vv_ii_gg_aa_tt_ii_oo_nn          * _M_a_d_r_i_d
+                        * _C_a_n_b_e_r_r_a
+                        * _S_p_a_c_e_ _F_l_i_g_h_t_ _O_p_e_r_a_t_i_o_n_s_ _F_a_c_i_l_i_t_y)
+                        * _L_i_s_t_ _o_f_ _a_s_t_r_o_n_a_u_t_s_ _b_y_ _n_a_m_e
+                              o _b_y_ _y_e_a_r
+                              o _A_p_o_l_l_o_ _a_s_t_r_o_n_a_u_t_s
+                        * _L_i_s_t_ _o_f_ _N_A_S_A_ _a_i_r_c_r_a_f_t
+NNAASSAA lliissttss              * _L_i_s_t_ _o_f_ _N_A_S_A_ _m_i_s_s_i_o_n_s
+                        * _L_i_s_t_ _o_f_ _N_A_S_A_ _c_o_n_t_r_a_c_t_o_r_s
+                        * _L_i_s_t_ _o_f_ _U_n_i_t_e_d_ _S_t_a_t_e_s_ _r_o_c_k_e_t_s
+                        * _L_i_s_t_ _o_f_ _N_A_S_A_ _c_a_n_c_e_l_l_a_t_i_o_n_s
+                        * _L_i_s_t_ _o_f_ _N_A_S_A_ _w_e_b_s_i_t_e_s
+    * [Category] _C_a_t_e_g_o_r_y
+    * [Commons page] _C_o_m_m_o_n_s
+    * [Portal] _P_o_r_t_a_l
+
+Retrieved from "_h_t_t_p_:_/_/_e_n_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_/
+_i_n_d_e_x_._p_h_p_?_t_i_t_l_e_=_A_p_o_l_l_o___1_1_&_a_m_p_;_o_l_d_i_d_=_6_3_4_6_4_8_1_6_6"
+_C_a_t_e_g_o_r_i_e_s:
+    * _L_Q_1_2_ _q_u_a_d_r_a_n_g_l_e
+    * _A_p_o_l_l_o_ _p_r_o_g_r_a_m
+    * _M_a_n_n_e_d_ _m_i_s_s_i_o_n_s_ _t_o_ _t_h_e_ _M_o_o_n
+    * _M_i_s_s_i_o_n_s_ _t_o_ _t_h_e_ _M_o_o_n
+    * _S_a_m_p_l_e_ _r_e_t_u_r_n_ _m_i_s_s_i_o_n_s
+    * _1_9_6_9_ _i_n_ _t_h_e_ _U_n_i_t_e_d_ _S_t_a_t_e_s
+    * _S_p_a_c_e_c_r_a_f_t_ _l_a_u_n_c_h_e_d_ _i_n_ _1_9_6_9
+    * _I_n_d_i_v_i_d_u_a_l_ _s_p_a_c_e_c_r_a_f_t_ _i_n_ _t_h_e_ _c_o_l_l_e_c_t_i_o_n_ _o_f_ _t_h_e_ _S_m_i_t_h_s_o_n_i_a_n_ _I_n_s_t_i_t_u_t_i_o_n
+    * _S_o_f_t_ _l_a_n_d_i_n_g_s_ _o_n_ _t_h_e_ _M_o_o_n
+    * _S_p_a_c_e_c_r_a_f_t_ _w_h_i_c_h_ _r_e_e_n_t_e_r_e_d_ _i_n_ _1_9_6_9
+Hidden categories:
+    * _P_a_g_e_s_ _u_s_i_n_g_ _d_u_p_l_i_c_a_t_e_ _a_r_g_u_m_e_n_t_s_ _i_n_ _t_e_m_p_l_a_t_e_ _c_a_l_l_s
+    * _C_S_1_ _e_r_r_o_r_s_:_ _d_a_t_e_s
+    * _U_s_e_ _m_d_y_ _d_a_t_e_s_ _f_r_o_m_ _J_u_n_e_ _2_0_1_3
+    * _W_i_k_i_p_e_d_i_a_ _i_n_d_e_f_i_n_i_t_e_l_y_ _s_e_m_i_-_p_r_o_t_e_c_t_e_d_ _p_a_g_e_s
+    * _W_i_k_i_p_e_d_i_a_ _i_n_d_e_f_i_n_i_t_e_l_y_ _m_o_v_e_-_p_r_o_t_e_c_t_e_d_ _p_a_g_e_s
+    * _G_o_o_d_ _a_r_t_i_c_l_e_s
+    * _A_r_t_i_c_l_e_s_ _w_i_t_h_ _h_A_u_d_i_o_ _m_i_c_r_o_f_o_r_m_a_t_s
+    * _W_i_k_i_p_e_d_i_a_ _a_r_t_i_c_l_e_s_ _i_n_c_o_r_p_o_r_a_t_i_n_g_ _t_e_x_t_ _f_r_o_m_ _N_A_S_A
+    * _C_o_m_m_o_n_s_ _c_a_t_e_g_o_r_y_ _w_i_t_h_ _l_o_c_a_l_ _l_i_n_k_ _s_a_m_e_ _a_s_ _o_n_ _W_i_k_i_d_a_t_a
+    * _U_s_e_ _A_m_e_r_i_c_a_n_ _E_n_g_l_i_s_h_ _f_r_o_m_ _J_a_n_u_a_r_y_ _2_0_1_4
+    * _A_l_l_ _W_i_k_i_p_e_d_i_a_ _a_r_t_i_c_l_e_s_ _w_r_i_t_t_e_n_ _i_n_ _A_m_e_r_i_c_a_n_ _E_n_g_l_i_s_h
+    * _A_r_t_i_c_l_e_s_ _c_o_n_t_a_i_n_i_n_g_ _v_i_d_e_o_ _c_l_i_p_s
+********** NNaavviiggaattiioonn mmeennuu **********
+******** PPeerrssoonnaall ttoooollss ********
+    * _C_r_e_a_t_e_ _a_c_c_o_u_n_t
+    * _L_o_g_ _i_n
+******** NNaammeessppaacceess ********
+    * _A_r_t_i_c_l_e
+    * _T_a_l_k
+VVaarriiaannttss
+******** VViieewwss ********
+    * _R_e_a_d
+    * _V_i_e_w_ _s_o_u_r_c_e
+    * _V_i_e_w_ _h_i_s_t_o_r_y
+MMoorree
+******** SSeeaarrcchh ********
+[Unknown INPUT type][Search][Go]
+******** NNaavviiggaattiioonn ********
+    * _M_a_i_n_ _p_a_g_e
+    * _C_o_n_t_e_n_t_s
+    * _F_e_a_t_u_r_e_d_ _c_o_n_t_e_n_t
+    * _C_u_r_r_e_n_t_ _e_v_e_n_t_s
+    * _R_a_n_d_o_m_ _a_r_t_i_c_l_e
+    * _D_o_n_a_t_e_ _t_o_ _W_i_k_i_p_e_d_i_a
+    * _W_i_k_i_m_e_d_i_a_ _S_h_o_p
+******** IInntteerraaccttiioonn ********
+    * _H_e_l_p
+    * _A_b_o_u_t_ _W_i_k_i_p_e_d_i_a
+    * _C_o_m_m_u_n_i_t_y_ _p_o_r_t_a_l
+    * _R_e_c_e_n_t_ _c_h_a_n_g_e_s
+    * _C_o_n_t_a_c_t_ _p_a_g_e
+******** TToooollss ********
+    * _W_h_a_t_ _l_i_n_k_s_ _h_e_r_e
+    * _R_e_l_a_t_e_d_ _c_h_a_n_g_e_s
+    * _U_p_l_o_a_d_ _f_i_l_e
+    * _S_p_e_c_i_a_l_ _p_a_g_e_s
+    * _P_e_r_m_a_n_e_n_t_ _l_i_n_k
+    * _P_a_g_e_ _i_n_f_o_r_m_a_t_i_o_n
+    * _W_i_k_i_d_a_t_a_ _i_t_e_m
+    * _C_i_t_e_ _t_h_i_s_ _p_a_g_e
+******** PPrriinntt//eexxppoorrtt ********
+    * _C_r_e_a_t_e_ _a_ _b_o_o_k
+    * _D_o_w_n_l_o_a_d_ _a_s_ _P_D_F
+    * _P_r_i_n_t_a_b_l_e_ _v_e_r_s_i_o_n
+******** LLaanngguuaaggeess ********
+    * _A_f_r_i_k_a_a_n_s
+    * _·_ä_ _·_à_õ_·_à_≠_·_ä_õ
+    * _ÿ_ß_Ÿ_Ñ_ÿ_π_ÿ_±_ÿ_®_Ÿ_ä_ÿ_©
+    * _A_s_t_u_r_i_a_n_u
+    * _A_z_…_ô_r_b_a_y_c_a_n_c_a
+    * _‡_¶_¨_‡_¶_æ_‡_¶_Ç_‡_¶_≤_‡_¶_æ
+    * _–_ë_–_µ_–_ª_–_∞_—_Ä_—_É_—_Å_–_∫_–_∞_—_è
+    * _–_ë_—_ä_–_ª_–_≥_–_∞_—_Ä_—_Å_–_∫_–_∏
+    * _B_o_s_a_n_s_k_i
+    * _B_r_e_z_h_o_n_e_g
+    * _C_a_t_a_l_√_ 
+    * _–_ß_”_ë_–_≤_–_∞_—_à_–_ª_–_∞
+    * _ƒ_å_e_≈_°_t_i_n_a
+    * _C_y_m_r_a_e_g
+    * _D_a_n_s_k
+    * _D_e_u_t_s_c_h
+    * _E_e_s_t_i
+    * _Œ_ï_Œ_ª_Œ_ª_Œ_∑_Œ_Ω_Œ_π_Œ_∫_Œ_¨
+    * _E_s_p_a_√_±_o_l
+    * _E_s_p_e_r_a_n_t_o
+    * _E_u_s_k_a_r_a
+    * _Ÿ_Å_ÿ_ß_ÿ_±_ÿ_≥_€_å
+    * _F_r_a_n_√_ß_a_i_s
+    * _F_r_y_s_k
+    * _G_a_l_e_g_o
+    * _‡_™_ó_‡_´_Å_‡_™_ú_‡_™_∞_‡_™_æ_‡_™_§_‡_´_Ä
+    * _Ì_ï_ú_Í_µ_≠_Ï_ñ_¥
+    * _’_Ä_’_°_’_µ_’_•_÷_Ä_’_•_’_∂
+    * _‡_§_π_‡_§_ø_‡_§_®_‡_•_ç_‡_§_¶_‡_•_Ä
+    * _H_r_v_a_t_s_k_i
+    * _B_a_h_a_s_a_ _I_n_d_o_n_e_s_i_a
+    * _I_t_a_l_i_a_n_o
+    * _◊_¢_◊_ë_◊_®_◊_ô_◊_™
+    * _B_a_s_a_ _J_a_w_a
+    * _‡_≤_ï_‡_≤_®_‡_≥_ç_‡_≤_®_‡_≤_°
+    * _·_É_•_·_É_ê_·_É_ _·_É_ó_·_É_£_·_É_ö_·_É_ò
+    * _L_a_t_v_i_e_≈_°_u
+    * _L_i_e_t_u_v_i_≈_≥
+    * _L_u_m_b_a_a_r_t
+    * _M_a_g_y_a_r
+    * _–_ú_–_∞_–_∫_–_µ_–_¥_–_æ_–_Ω_—_Å_–_∫_–_∏
+    * _‡_¥_Æ_‡_¥_≤_‡_¥_Ø_‡_¥_æ_‡_¥_≥_‡_¥_Ç
+    * _‡_§_Æ_‡_§_∞_‡_§_æ_‡_§_ _‡_•_Ä
+    * _B_a_h_a_s_a_ _M_e_l_a_y_u
+    * _·_Ä_ô_·_Ä_º_·_Ä_î_·_Ä_∫_·_Ä_ô_·_Ä_¨_·_Ä_ò_·_Ä_¨_·_Ä_û_·_Ä_¨
+    * _N_e_d_e_r_l_a_n_d_s
+    * _Ê_ó_•_Ê_ú_¨_Ë_™_û
+    * _N_o_r_s_k_ _b_o_k_m_√_•_l
+    * _N_o_r_s_k_ _n_y_n_o_r_s_k
+    * _O_c_c_i_t_a_n
+    * _P_o_l_s_k_i
+    * _P_o_r_t_u_g_u_√_™_s
+    * _R_o_m_√_¢_n_ƒ_É
+    * _–_ _—_É_—_Å_—_Å_–_∫_–_∏_–_π
+    * _S_e_e_l_t_e_r_s_k
+    * _‡_∑_É_‡_∑_í_‡_∂_Ç_‡_∑_Ñ_‡_∂_Ω
+    * _S_i_m_p_l_e_ _E_n_g_l_i_s_h
+    * _S_l_o_v_e_n_ƒ_ç_i_n_a
+    * _S_l_o_v_e_n_≈_°_ƒ_ç_i_n_a
+    * _–_°_—_Ä_–_ø_—_Å_–_∫_–_∏_ _/_ _s_r_p_s_k_i
+    * _S_u_o_m_i
+    * _S_v_e_n_s_k_a
+    * _‡_Æ_§_‡_Æ_Æ_‡_Æ_ø_‡_Æ_¥_‡_Ø_ç
+    * _‡_π_Ñ_‡_∏_ó_‡_∏_¢
+    * _T_√_º_r_k_√_ß_e
+    * _–_£_–_∫_—_Ä_–_∞_—_ó_–_Ω_—_Å_—_å_–_∫_–_∞
+    * _ÿ_ß_ÿ_±_ÿ_Ø_Ÿ_à
+    * _T_i_·_∫_ø_n_g_ _V_i_·_ª_á_t
+    * _W_i_n_a_r_a_y
+    * _◊_ô_◊_ô_÷_¥_◊_ì_◊_ô_◊_©
+    * _Á_≤_µ_Ë_™_û
+    * _‰_∏_≠_Ê_ñ_á
+_E_d_i_t_ _l_i_n_k_s
+    * This page was last modified on 20 November 2014 at 04:28.
+    * Text is available under the _C_r_e_a_t_i_v_e_ _C_o_m_m_o_n_s_ _A_t_t_r_i_b_u_t_i_o_n_-_S_h_a_r_e_A_l_i_k_e
+      _L_i_c_e_n_s_e; additional terms may apply. By using this site, you agree to the
+      _T_e_r_m_s_ _o_f_ _U_s_e and _P_r_i_v_a_c_y_ _P_o_l_i_c_y. Wikipedia¬Æ is a registered trademark of
+      the _W_i_k_i_m_e_d_i_a_ _F_o_u_n_d_a_t_i_o_n_,_ _I_n_c_., a non-profit organization.
+    * _P_r_i_v_a_c_y_ _p_o_l_i_c_y
+    * _A_b_o_u_t_ _W_i_k_i_p_e_d_i_a
+    * _D_i_s_c_l_a_i_m_e_r_s
+    * _C_o_n_t_a_c_t_ _W_i_k_i_p_e_d_i_a
+    * _D_e_v_e_l_o_p_e_r_s
+    * _M_o_b_i_l_e_ _v_i_e_w
+    * _[_W_i_k_i_m_e_d_i_a_ _F_o_u_n_d_a_t_i_o_n_]
+    * _[_P_o_w_e_r_e_d_ _b_y_ _M_e_d_i_a_W_i_k_i_]
